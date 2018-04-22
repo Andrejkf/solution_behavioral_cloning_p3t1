@@ -47,7 +47,9 @@ This is a non exclusive list of openCV functions I used:
 ## Reflection
 To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_behavioral_cloning...ipynb
 
-
+---
+### Content of this repository
+* A file 
 
 ## Introduction
 
@@ -167,8 +169,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTk4MzE4MCwxNjEwNTk4ODY5LDMzMz
-c3MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2
-OTUsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC
-0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbLTE2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMz
+M3NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1
+Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMC
+wtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
 -->
