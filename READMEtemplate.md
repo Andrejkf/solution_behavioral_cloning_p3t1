@@ -1,4 +1,8 @@
-# Udacity Self-Driving Car Engineer Nanodegree - Behavioral Cloning Project
+# Behavioral Cloning Project
+
+## ## Writeup report for project 3, term 1.
+
+
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
 
@@ -122,5 +126,5 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbLTE2OTA4ODUxMDUsNDY3NzE5OTI4XX0=
 -->
