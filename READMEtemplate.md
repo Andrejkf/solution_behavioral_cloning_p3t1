@@ -30,6 +30,7 @@ This is a short list of keras funtions used:
 
 This is a non exclusive list of openCV functions I used:
 
+* [cv2.resize()](https://docs.opencv.org/3.4.0/da/d6e/tutorial_py_geometric_transformations.html). Used for rescaling images to 32x32x3 size.
 
 
 
@@ -156,7 +157,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwODUyMzczLC0xOTA2Mjc1Njk1LC0xMD
-Q0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5
-MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTU3NDgzOTk3MywtMTkwNjI3NTY5NSwtMT
+A0NDE5ODM1MiwtNTkxMjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2
+OTM2ODcsMTkxMjk2MjM4Miw0Njc3MTk5MjhdfQ==
 -->
