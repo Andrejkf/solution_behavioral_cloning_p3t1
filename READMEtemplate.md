@@ -26,7 +26,7 @@ For the solution proposed, the next techniques were applied:
 * [Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf).
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
-This is a short list of keras funtions used:
+This is a short list of keras funtions I used:
 
 This is a non exclusive list of openCV functions I used:
 
@@ -157,7 +157,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDgzOTk3MywtMTkwNjI3NTY5NSwtMT
-A0NDE5ODM1MiwtNTkxMjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2
-OTM2ODcsMTkxMjk2MjM4Miw0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbLTMxNDQ4NTA0MiwxNTc0ODM5OTczLC0xOT
+A2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMx
+MTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF
+19
 -->
