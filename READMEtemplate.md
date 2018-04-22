@@ -53,17 +53,11 @@ To make it easier to follow up this reading the most relevant information is wri
 * A file named **drive.py** to be able to run the model on your local machine.
 *  A file named **model.h5** with the trained model ready to test on the [simulator](https://github.com/udacity/self-driving-car-sim).
 * A file named **report.md** with the report for the current project.
-* A video file
+* A video file named **track1.mp4** with the model succesfully working 
 The submission includes a model.py file, drive.py, model.h5 a writeup report and video.mp4.
 ## Introduction
 
-The object of this project is to apply deep learning principles to effectively teach a car to drive autonomously in a simulated driving application. The simulator includes both training and autonomous modes, and two tracks on which the car can be driven - I will refer to these as the "test track" (which is the track from which training data is collected and on which the output is evaluated for project credit) and the "challenge track" (which includes hills, tight turns, and other features not included in the test track). 
 
-In training mode, user generated driving data is collected in the form of simulated car dashboard camera images and control data (steering angle, throttle, brake, speed). Using the Keras deep learning framework, a convolutional neural network (CNN) model is produced using the collected driving data (see `model.py`) and saved as `model.json` (with CNN weights saved as `model.h5`). 
-
-Using the saved model, drive.py (provided by Udacity, but amended slightly to ensure compatibility with the CNN model and to fine tune controls) starts up a local server to control the simulator in autonomous mode. The command to run the server is `python drive.py model.json`; the model weights are retrieved using the same name but with the extension `.h5` (i.e. `model.h5`).
-
-The challenge of this project is not only developing a CNN model that is able to drive the car around the test track without leaving the track boundary, but also feeding training data to the CNN in a way that allows the model to generalize well enough to drive in an environment it has not yet encountered (i.e. the challenge track). 
 
 ## Approach
 
@@ -173,9 +167,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI1ODY0NjcsLTE2Mjg2NDY2MDMsMT
-YxMDU5ODg2OSwzMzM3NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5
-OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MD
-IsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2
-NzcxOTkyOF19
+eyJoaXN0b3J5IjpbLTM1MTE4NDcxMCwtMTU3MjU4NjQ2NywtMT
+YyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIz
+NTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNT
+IsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5
+MTI5NjIzODIsNDY3NzE5OTI4XX0=
 -->
