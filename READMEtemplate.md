@@ -12,7 +12,7 @@ The total data used in this project is a union between *data provided by udacity
 to apply deep learning principles to effectively teach a car to drive autonomously in a simulated driving application
  to predict good driving behaviour from human using a [simulator] gently provided by udacity team.
 
-It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1), [scikit-learn](http://scikit-learn.org) (version 0.18.1), [TensorFlow GPU](https://www.tensorflow.org/) (version 1.3.0) and [OpenCV](https://opencv.org/releases.html) (version 3.4.0).
+It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1), [scikit-learn](http://scikit-learn.org) (version 0.19.1), [TensorFlow GPU](https://www.tensorflow.org/) (version 1.3.0), [keras]() and [OpenCV](https://opencv.org/releases.html) (version 3.4.0).
 
 
 
@@ -138,6 +138,6 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY2OTM2ODcsMTkxMjk2MjM4Miw0Nj
-c3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbNDY5OTQ1OTAzLC0xMjI2NjkzNjg3LDE5MT
+I5NjIzODIsNDY3NzE5OTI4XX0=
 -->
