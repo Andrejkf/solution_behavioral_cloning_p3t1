@@ -61,7 +61,9 @@ For this project, steps provided were followed as advised in the [rubric](https:
 
 ### Solution design process.
 
-The solution 
+The solution aproach for this project is explained along this document.
+
+Initially a test data was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test if 
 1.1 Architecture model aproach.
 Data preprocessing.
 Training and valdiation data selection.
@@ -175,7 +177,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTgyMTYyOSwtMTU3MjU4NjQ2NywtMT
+eyJoaXN0b3J5IjpbLTYxMTE2NzM3MiwtMTU3MjU4NjQ2NywtMT
 YyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIz
 NTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNT
 IsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5
