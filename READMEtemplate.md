@@ -63,7 +63,8 @@ For this project, steps provided were followed as advised in the [rubric](https:
 
 The solution aproach for this project is explained along this document.
 
-Initially a test data was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test some basic network architectures like a [Deep Fully Connected Network](https://arxiv.org/abs/1603.04930) and a [Convolutional Neural Network]. 
+Initially a test data was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test some basic network architectures like a [Deep Fully Connected Network](https://arxiv.org/abs/1603.04930) and a [Convolutional Neural Network](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
+
 1.1 Architecture model aproach.
 Data preprocessing.
 Training and valdiation data selection.
@@ -177,9 +178,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU3NDgzMCwtMTU3MjU4NjQ2NywtMT
-YyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIz
-NTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNT
-IsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5
-MTI5NjIzODIsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbLTE0NTA5MjgzNjcsLTE1NzI1ODY0NjcsLT
+E2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMzM3NzI5MzcsMTQxODUy
+MzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4Mz
+UyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4Nywx
+OTEyOTYyMzgyLDQ2NzcxOTkyOF19
 -->
