@@ -30,7 +30,9 @@ This is a short list of keras funtions I used:
 * [mean_square_error](https://keras.io/losses/)
 * [Adam](https://keras.io/optimizers/).
 * [Sequential](https://keras.io/models/sequential/).
-* [Lambda, ]
+* [Lambda, Activation, Flatten, Dense, Dropout](https://keras.io/layers/core/).
+* [Convolution2D](https://keras.io/layers/convolutional/).
+* [l2]()
 This is a non exclusive list of openCV functions I used:
 
 * [cv2.resize()](https://docs.opencv.org/3.4.0/da/d6e/tutorial_py_geometric_transformations.html). Used for rescaling images to 32x32x3 size.
@@ -160,8 +162,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM5OTE4ODAsMTQxODUyMzU4OCwxNT
-c0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEy
-NjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMz
-gyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTEzNjA0MTQyNywxNDE4NTIzNTg4LDE1Nz
+Q4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLTU5MTI2
+NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5NjIzOD
+IsNDY3NzE5OTI4XX0=
 -->
