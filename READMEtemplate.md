@@ -16,7 +16,8 @@ It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1)
 
 For the solution proposed, the next techniques were applied:
 
-[Image scaling](
+[Image scaling](http://graphics.csie.ncku.edu.tw/Image_Resizing/data/ImageResizing08.pdf)
+
 
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
@@ -141,7 +142,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMz
-AwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5
-OTI4XX0=
+eyJoaXN0b3J5IjpbLTgyOTgxNzAyMCwtMTA0NDE5ODM1MiwtNT
+kxMjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2
+MjM4Miw0Njc3MTk5MjhdfQ==
 -->
