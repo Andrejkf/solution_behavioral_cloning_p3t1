@@ -27,7 +27,7 @@ For the solution proposed, the next techniques were applied:
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
 This is a short list of keras funtions I used:
-
+* 
 This is a non exclusive list of openCV functions I used:
 
 * [cv2.resize()](https://docs.opencv.org/3.4.0/da/d6e/tutorial_py_geometric_transformations.html). Used for rescaling images to 32x32x3 size.
@@ -157,7 +157,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDQ4NTA0MiwxNTc0ODM5OTczLC0xOT
+eyJoaXN0b3J5IjpbMTQxODUyMzU4OCwxNTc0ODM5OTczLC0xOT
 A2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMx
 MTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF
 19
