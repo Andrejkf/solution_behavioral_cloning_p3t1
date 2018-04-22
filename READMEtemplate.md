@@ -26,6 +26,13 @@ For the solution proposed, the next techniques were applied:
 * [Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf).
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
+This is a short list of keras funtions used:
+
+This is a non exclusive list of openCV functions I used:
+
+
+
+
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
 
@@ -149,7 +156,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLT
-U5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5
-NjIzODIsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbNTgwODUyMzczLC0xOTA2Mjc1Njk1LC0xMD
+Q0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5
+MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
 -->
