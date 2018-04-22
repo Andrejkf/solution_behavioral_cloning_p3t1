@@ -52,7 +52,8 @@ To make it easier to follow up this reading the most relevant information is wri
 * A file named **model.py** with the code used to design the model of the solution proposed.
 * A file named **drive.py** to be able to run the model on your local machine.
 *  A file named **model.h5** with the trained model ready to test on the [simulator](https://github.com/udacity/self-driving-car-sim).
-* A 
+* A file named **report.md** with the report for the current project.
+* A video file
 The submission includes a model.py file, drive.py, model.h5 a writeup report and video.mp4.
 ## Introduction
 
@@ -172,9 +173,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODk4OTU0MCwtMTYyODY0NjYwMywxNj
-EwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5
-NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMi
-wtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3
-NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbLTE1NzI1ODY0NjcsLTE2Mjg2NDY2MDMsMT
+YxMDU5ODg2OSwzMzM3NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5
+OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MD
+IsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2
+NzcxOTkyOF19
 -->
