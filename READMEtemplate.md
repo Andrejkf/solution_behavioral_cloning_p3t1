@@ -49,8 +49,8 @@ To make it easier to follow up this reading the most relevant information is wri
 
 ---
 ### Content of this repository
-* A file 
-
+* A file named **model.py** with the model 
+The submission includes a model.py file, drive.py, model.h5 a writeup report and video.mp4.
 ## Introduction
 
 The object of this project is to apply deep learning principles to effectively teach a car to drive autonomously in a simulated driving application. The simulator includes both training and autonomous modes, and two tracks on which the car can be driven - I will refer to these as the "test track" (which is the track from which training data is collected and on which the output is evaluated for project credit) and the "challenge track" (which includes hills, tight turns, and other features not included in the test track). 
@@ -169,8 +169,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMz
-M3NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1
-Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMC
-wtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTgzMDE5MDE0MCwtMTYyODY0NjYwMywxNj
+EwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5
+NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMi
+wtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3
+NzE5OTI4XX0=
 -->
