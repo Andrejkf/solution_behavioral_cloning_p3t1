@@ -14,6 +14,9 @@ to apply deep learning principles to effectively teach a car to drive autonomous
 
 It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1), [scikit-learn](http://scikit-learn.org) (version 0.19.1), [TensorFlow GPU](https://www.tensorflow.org/) (version 1.3.0), [keras](https://keras.io/) (version 2.1.5) *for fast modelling* and [OpenCV](https://opencv.org/releases.html) (version 3.4.0).
 
+For the solution proposed, the next techniques were applied:
+
+
 
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
@@ -138,6 +141,6 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOT
-EyOTYyMzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0xMj
+I2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
 -->
