@@ -4,7 +4,7 @@
 
 This is the report for project 2, term 1.
 
-In this project a convolutional deep neural network model was used to predict good driving behaviour from human using a simulator gently provided by udacity guy
+In this project a convolutional deep neural network model was used to predict good driving behaviour from human using a [simulator](https://github.com/udacity/self-driving-car-sim) gently provided by udacity team.
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
 
@@ -128,5 +128,5 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MDQwMzkzLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTI2NjY0MDk2MSw0Njc3MTk5MjhdfQ==
 -->
