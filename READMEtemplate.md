@@ -59,8 +59,10 @@ To make it easier to follow up this reading the most relevant information is wri
 ## Approach
 For this project, steps provided were followed as advised in the [rubric](https://review.udacity.com/#!/rubrics/432/view) .
 
-Solution design process.
-Architecture model aproach.
+### Solution design process.
+
+
+1.1 Architecture model aproach.
 Data preprocessing.
 Training and valdiation data selection.
 Parameters  tunning:
@@ -173,9 +175,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ4NzAzODYsLTE1NzI1ODY0NjcsLT
-E2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMzM3NzI5MzcsMTQxODUy
-MzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4Mz
-UyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4Nywx
-OTEyOTYyMzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTI2NTMwNTE3OSwtMTU3MjU4NjQ2NywtMT
+YyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIz
+NTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNT
+IsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5
+MTI5NjIzODIsNDY3NzE5OTI4XX0=
 -->
