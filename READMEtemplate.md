@@ -42,9 +42,15 @@ This is a non exclusive list of openCV functions I used:
 
 
 
+
+
+
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
 
 **Note: This project makes use of a Udacity-developed driving simulator and training data collected from the simulator (neither of which is included in this repo).**
+
+
+
 
 ## Introduction
 
@@ -164,7 +170,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjAxNTM4MiwxNjEwNTk4ODY5LDMzMz
+eyJoaXN0b3J5IjpbMTI2NzkxMTEwMiwxNjEwNTk4ODY5LDMzMz
 c3MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2
 OTUsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC
 0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
