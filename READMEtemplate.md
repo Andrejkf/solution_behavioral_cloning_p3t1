@@ -49,6 +49,9 @@ This is a non exclusive list of openCV functions I used:
 
 **Note: This project makes use of a Udacity-developed driving simulator and training data collected from the simulator (neither of which is included in this repo).**
 
+---
+## Reflection
+To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_behavioral_cloning.ipynb
 
 
 
@@ -170,7 +173,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzkxMTEwMiwxNjEwNTk4ODY5LDMzMz
+eyJoaXN0b3J5IjpbLTU0MzEyNDc2OCwxNjEwNTk4ODY5LDMzMz
 c3MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2
 OTUsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC
 0xMjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
