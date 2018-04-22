@@ -6,7 +6,7 @@ This is the report for project 2, term 1.
 
 In this project a convolutional deep neural network model was used to effectively teach a car to drive autonomously in a simulated driving application to predict good driving behaviour from a human.
 
-The total data used in this project is a union between *data provided by udacity* and *data collected by the student using a [simulator provided by udacity](https://github.com/udacity/self-driving-car-sim).
+The total data used in this project is a union between *data provided by udacity* and *data collected by the student using a [simulator](https://github.com/udacity/self-driving-car-sim).
 
 
 to apply deep learning principles to effectively teach a car to drive autonomously in a simulated driving application
@@ -134,6 +134,6 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzY4Njc4MiwxOTEyOTYyMzgyLDQ2Nz
+eyJoaXN0b3J5IjpbLTM2NDU4NjcwMSwxOTEyOTYyMzgyLDQ2Nz
 cxOTkyOF19
 -->
