@@ -17,7 +17,8 @@ It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1)
 For the solution proposed, the next techniques were applied:
 
 * [Image scaling](http://graphics.csie.ncku.edu.tw/Image_Resizing/data/ImageResizing08.pdf)
-* 
+* [Color space transformation](https://physics.info/color/).
+* [Dat]
 
 
 
@@ -143,7 +144,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwODkyNTk0LC0xMDQ0MTk4MzUyLC01OT
-EyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYy
-MzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbMTU5MDc5MTgwNywtMTA0NDE5ODM1MiwtNT
+kxMjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2
+MjM4Miw0Njc3MTk5MjhdfQ==
 -->
