@@ -64,6 +64,7 @@ Architecture model aproach.
 Data preprocessing.
 Training and valdiation data selection.
 Parameters  tunning:
+Simulation.
 
 
 ### 1. Base Model and Adjustments
@@ -172,7 +173,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA0ODExMDMsLTE1NzI1ODY0NjcsLT
+eyJoaXN0b3J5IjpbLTEwODQ4NzAzODYsLTE1NzI1ODY0NjcsLT
 E2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMzM3NzI5MzcsMTQxODUy
 MzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4Mz
 UyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4Nywx
