@@ -27,13 +27,13 @@ For the solution proposed, the next techniques were applied:
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
 This is a short list of keras funtions I used:
-* [mean_square_error](https://keras.io/losses/)
+* [mean_square_error](https://keras.io/losses/).
 * [Adam](https://keras.io/optimizers/).
 * [Sequential](https://keras.io/models/sequential/).
 * [Lambda, Activation, Flatten, Dense, Dropout](https://keras.io/layers/core/).
 * [Convolution2D](https://keras.io/layers/convolutional/).
 * [l2](https://keras.io/regularizers/).
-* 
+
 This is a non exclusive list of openCV functions I used:
 
 * [cv2.resize()](https://docs.opencv.org/3.4.0/da/d6e/tutorial_py_geometric_transformations.html). Used for rescaling images to 32x32x3 size.
@@ -163,8 +163,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYwMTIyNDcsMTQxODUyMzU4OCwxNT
-c0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEy
-NjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMz
-gyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbLTg5MTk0MTA3LDE0MTg1MjM1ODgsMTU3ND
+gzOTk3MywtMTkwNjI3NTY5NSwtMTA0NDE5ODM1MiwtNTkxMjY0
+NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2MjM4Mi
+w0Njc3MTk5MjhdfQ==
 -->
