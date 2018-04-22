@@ -27,7 +27,7 @@ For the solution proposed, the next techniques were applied:
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
 This is a short list of keras funtions I used:
-* [mean_square_error](https://keras.io/losses/). As Objective Function.
+* [mean_square_error](https://keras.io/losses/). As Objective/Loss Function.
 * [Adam](https://keras.io/optimizers/). Optimizer.
 * [Sequential](https://keras.io/models/sequential/). For the model.
 * [Lambda, Activation, Flatten, Dense, Dropout](https://keras.io/layers/core/). layers.
@@ -163,8 +163,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTM3OTk1MywxNDE4NTIzNTg4LDE1Nz
-Q4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLTU5MTI2
-NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5NjIzOD
-IsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbMzMzNzcyOTM3LDE0MTg1MjM1ODgsMTU3ND
+gzOTk3MywtMTkwNjI3NTY5NSwtMTA0NDE5ODM1MiwtNTkxMjY0
+NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2MjM4Mi
+w0Njc3MTk5MjhdfQ==
 -->
