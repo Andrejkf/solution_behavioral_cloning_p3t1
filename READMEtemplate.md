@@ -19,8 +19,11 @@ For the solution proposed, the next techniques were applied:
 * [Digital Image scaling](http://graphics.csie.ncku.edu.tw/Image_Resizing/data/ImageResizing08.pdf)
 * [Color space transformation](https://physics.info/color/).
 * [Data cleansing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwj4vJG9887aAhWPxFkKHQ32Ag4QFghLMAI&url=http%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9780387244358-c2.pdf%3FSGWID%3D0-0-45-323094-p48087677&usg=AOvVaw3OdK2EQXKlUHXzO85eEyt6).
-* 
-
+* [Data normalization](https://arxiv.org/pdf/1705.01809.pdf).
+* [Shuffle training set](http://ieeexplore.ieee.org/document/8246726/?reload=true).
+* [Batch Training](https://arxiv.org/abs/1711.00489).
+* [Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf).
+* [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
@@ -145,7 +148,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjY3NzgwMCwtMTA0NDE5ODM1MiwtNT
-kxMjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2
-MjM4Miw0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbNDUwODkzMDQxLC0xMDQ0MTk4MzUyLC01OT
+EyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYy
+MzgyLDQ2NzcxOTkyOF19
 -->
