@@ -30,7 +30,7 @@ This is a short list of keras funtions I used:
 * [mean_square_error](https://keras.io/losses/). As Objective/Loss Function.
 * [Adam](https://keras.io/optimizers/). Optimizer.
 * [Sequential](https://keras.io/models/sequential/). For the model.
-* [Lambda, Activation, Flatten, Dense, Dropout](https://keras.io/layers/core/). layers.
+* [Lambda, Activation, Flatten, Dense, Dropout](https://keras.io/layers/core/). Layers.
 * [Convolution2D](https://keras.io/layers/convolutional/). Convolutional Layers.
 * [l2](https://keras.io/regularizers/). L2 regularization.
 
@@ -163,8 +163,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNzcyOTM3LDE0MTg1MjM1ODgsMTU3ND
-gzOTk3MywtMTkwNjI3NTY5NSwtMTA0NDE5ODM1MiwtNTkxMjY0
-NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2MjM4Mi
-w0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDc0NzE1OSwzMzM3NzI5MzcsMTQxOD
+UyMzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Njk1LC0xMDQ0MTk4
+MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwtMTIyNjY5MzY4Ny
+wxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
 -->
