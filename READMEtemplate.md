@@ -19,7 +19,7 @@ For the solution proposed, the next techniques were applied:
 * [Digital Image scaling](http://graphics.csie.ncku.edu.tw/Image_Resizing/data/ImageResizing08.pdf)
 * [Color space transformation](https://physics.info/color/).
 * [Data cleansing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwj4vJG9887aAhWPxFkKHQ32Ag4QFghLMAI&url=http%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9780387244358-c2.pdf%3FSGWID%3D0-0-45-323094-p48087677&usg=AOvVaw3OdK2EQXKlUHXzO85eEyt6).
-* [Data augmentation](
+* [Data augmentation](https://openreview.net/forum?id=S1Auv-WRZ).
 * [Data normalization](https://arxiv.org/pdf/1705.01809.pdf).
 * [Shuffle training set](http://ieeexplore.ieee.org/document/8246726/?reload=true).
 * [Batch Training](https://arxiv.org/abs/1711.00489).
@@ -149,7 +149,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTczMzE5NjUsLTEwNDQxOTgzNTIsLT
+eyJoaXN0b3J5IjpbLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLT
 U5MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5
 NjIzODIsNDY3NzE5OTI4XX0=
 -->
