@@ -72,10 +72,10 @@ The solution aproach for this project is explained along this document.
 
 Initially an image data set was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test some basic network architectures like a [Deep Fully Connected Network](https://arxiv.org/abs/1603.04930) and a [Convolutional Neural Network](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
 Then further data was collected and unified to train and test the network performace. The data set was preprocessed (removed redundant data, data augmentation). Model architecture was selected and *parameters tunning process* was done by trial and error, testing the model performance on the [simulator](https://github.com/udacity/self-driving-car-sim).
-Also, image files paths were updated to run the project in the server. For that,  custom functions *mergecsv()* and *path_remove()* where defined (from code lines 40 to lines 80).
+
 
 #### Data collection.
-The set of images used on this project was progresively constructed during the whole design aproach process. The paths for all images where gathered in a single csv file (*merged4_modified.csv*) with paths updated to run on a single linux server using python [pandas](https://pandas.pydata.org/) library and custom defined funtions 
+The set of images used on this project was progresively constructed during the whole design aproach process. The paths for all images where gathered in a single csv file (*merged4_modified.csv*) with paths updated to run on a single linux server using python [pandas](https://pandas.pydata.org/) library and custom defined funtions  *mergecsv()* and *path_remove()* where defined (from code lines 40 to lines 80).
 
 The final data set used to train and validate network performance contains as subset:
 * Images provided by udacity team on the project.
@@ -261,7 +261,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTcxNDc2NCw2OTY1MDAwNCw3OTQwND
+eyJoaXN0b3J5IjpbLTE2MTY4NzE1OCw2OTY1MDAwNCw3OTQwND
 c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
 LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
 IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
