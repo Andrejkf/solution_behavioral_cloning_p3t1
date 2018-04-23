@@ -167,7 +167,7 @@ Mean squared error. Used for prediction/regression of steering angles.
 Adam. Used because it adjustes the learning rate dirung the training process using stochastic gradient based optimization.
 * batch size: 64. Use to work very fast on Nvidia GPU quadro P1000.
 * Epochs: 30. Just enough to avoid overfitting.
-* Steps per epoch: 
+
 
 
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
@@ -338,7 +338,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzg4Mzg2MCwzODAyMTE5MzIsLTEyNj
+eyJoaXN0b3J5IjpbLTQ0NTUwMzM4NywzODAyMTE5MzIsLTEyNj
 Y3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2
 OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNS
 wxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUx
