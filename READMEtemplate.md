@@ -174,7 +174,7 @@ Total params: 296,549
 Trainable params: 296,549
 Non-trainable params: 0
 
-And the training and validation loss for the last model is shown below.
+The last run accuraccy reprot can be view on
 
 
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
@@ -345,11 +345,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzE5NjMwNywzODAyMTE5MzIsLTEyNj
-Y3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2
-OTY5LC0xMzE3NTAwMzI4LDE0OTcyMzEyODIsMTQzOTEyNjQwNS
-wxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUx
-MjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC
-05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4
-NDg2NV19
+eyJoaXN0b3J5IjpbNTYzMzYzMjg2LDM4MDIxMTkzMiwtMTI2Nj
+czODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5
+NjksLTEzMTc1MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LD
+ExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEy
+MDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLT
+kwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0
+ODY1XX0=
 -->
