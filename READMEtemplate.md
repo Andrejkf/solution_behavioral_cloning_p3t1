@@ -135,7 +135,7 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * random_image_select() : (Code lines 387-400) Used to select pseudo-randomly images from the center, left or rigth camera.
 * random_flip(): ( Code lines 405 - 418). Used to flip images pseudorandomly.
 * random_sadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
-* 
+* brigth_augmentation2(): (Code lines 468 - 479) used to 
 
 
 
@@ -308,7 +308,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjc0OTAwNSwxNDM5MTI2NDA1LDExMT
+eyJoaXN0b3J5IjpbLTU5MDQ1MjU2MSwxNDM5MTI2NDA1LDExMT
 c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
 LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
 k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
