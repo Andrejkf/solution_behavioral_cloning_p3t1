@@ -109,8 +109,11 @@ So, before starting processing data a process of data cleaning was done, and ini
 <br/> ![alt text][image6]
 
 #### Data preprocessing (Part 2)
+Here custom funtions and steps applied to image before 
 
-During the desing process, it was noted that the server machine took a long time for training data. initially in terms 
+
+
+During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
 
 
 
@@ -277,11 +280,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODM0NTEyLDExMTc3ODkzOTYsNjk2NT
-AwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5Nzgs
-NTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3OD
-U5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEs
-MTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mz
-g5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5Njgz
-XX0=
+eyJoaXN0b3J5IjpbLTkzMzY5MzEyOSwxMTE3Nzg5Mzk2LDY5Nj
+UwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4
+LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nz
+g1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkx
+LDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5ND
+M4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4
+M119
 -->
