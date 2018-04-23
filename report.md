@@ -97,7 +97,9 @@ So *from code lines 138 to 320* data was preprocesed to get a more balanced dist
 
 Funtions get_list_pos() and find_pos() were defined to get the position of the path o the redundant images (code lines 138 to 193). Funtion my_hist(). 
 
-Basically, data cleaning was done in two stages. On the first one, one threshold value of *1.5 times the average of the data* to remove reduntand information. That, is 
+Basically, data cleaning was done in two stages. 
+
+On the first one, one threshold value of *1.5 times the average of the data* to remove reduntand information. That is, 
 
 
 
@@ -265,11 +267,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDM3NzU4OCw2OTY1MDAwNCw3OTQwND
-c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
-LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
-IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
-LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
-IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
-XX0=
+eyJoaXN0b3J5IjpbNDI4NTUwMzQ4LDY5NjUwMDA0LDc5NDA0Nz
+Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
+OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
+E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
+MjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMj
+M4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTld
+fQ==
 -->
