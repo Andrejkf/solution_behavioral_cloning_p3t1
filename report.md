@@ -109,7 +109,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 <br/> ![alt text][image6]
 
 ####  Architecture model aproach.
-Initially the raw ima
+Initially a simple deep fully connected network with 1 flatten layer and a dense  layer was trained to check if model was ab
 
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image before feeding the model is explained.
@@ -285,7 +285,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NjcwNDQ2LDExMTc3ODkzOTYsNjk2NT
+eyJoaXN0b3J5IjpbNTg4NTcxNTM1LDExMTc3ODkzOTYsNjk2NT
 AwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5Nzgs
 NTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3OD
 U5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEs
