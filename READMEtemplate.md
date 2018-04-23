@@ -138,7 +138,7 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
 
 ##### Batch generator
-Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory 
+Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called batch_generator(), used to produce be
 
 
 
@@ -311,11 +311,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDgxODU2NCwxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbMjQ1NjU3MTQwLDE0MzkxMjY0MDUsMTExNz
+c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
+MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
+c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
+MjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMT
+c1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYx
+XX0=
 -->
