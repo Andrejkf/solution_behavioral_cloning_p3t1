@@ -102,7 +102,8 @@ Basically, data cleaning was done in two stages.
 On the first one, one threshold value of *1.5 times the average of the data* to remove reduntand information. That is, data images above the threshold_value(1.5*average)  were removed randomly until having each bin with a maximum of the therhold value. This is show in the image below.
 <br/> ![alt text][image4]
 
-On the seccond stage to get a better distribuion, closer to a guassian one, the same threshold value was defined (again,  threshold = 1.5*average).  For bins from the histogram with a sample number above threshold a probability to keep values was empirically defined as  * keepProb= (samples_at_current_bin/threshold)*0.5
+On the seccond stage to get a better distribuion, closer to a guassian one, the same threshold value was defined (again,  threshold = 1.5*average).  For bins from the histogram with a sample number above threshold a probability to keep values was empirically defined as  **keepProb= (samples_at_current_bin/threshold)*0.5 ** (code lines 277 to 290).
+
 
 
 
@@ -270,11 +271,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjUxNjk0OSw2OTY1MDAwNCw3OTQwND
-c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
-LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
-IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
-LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
-IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDcyMTEwMjAsNjk2NTAwMDQsNzk0MD
+Q3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4
+LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1Nj
+UyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0
+OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNz
+AyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODEx
+OV19
 -->
