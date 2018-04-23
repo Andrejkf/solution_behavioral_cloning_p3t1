@@ -205,7 +205,7 @@ About dropout layers. They also helped to substantially increase the model abstr
 
 
 ## To improve
-I want to summarize the posible improvements for this submission:
+I want to summarize the posible improvements that come to my mind for this submission at this point:
 
 * Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 
@@ -266,11 +266,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM2MjM1MjYsNzUyNDQ4MDUsOTI2NT
-M1MTAyLC0yMDQwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwt
-MTI2NjczODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NT
-k2ODY5NjksLTEzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2
-NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMD
-cyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTM3NzgzODc0MSw3NTI0NDgwNSw5MjY1Mz
+UxMDIsLTIwNDA3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0x
+MjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OT
+Y4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0
+MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNz
+I1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUz
+NF19
 -->
