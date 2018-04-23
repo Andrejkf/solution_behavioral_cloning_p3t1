@@ -197,7 +197,7 @@ With these starategies the model performed well (safety for pasengers) on track1
 
 Speed of the model was up to 15 dispacement/time units  and honestly I would like to have it working at maximum speed.
 
-It was really hard to tune parameters for this model. Specifically because as the number of free parameters of the model increased the optimization complexity of the problem increased. (that means , I needed to start parameters tunning again.
+It was really hard to tune parameters for this model. Specifically because as the number of free parameters of the model increased, then the optimization complexity of the problem increased. (that means , I needed to start parameters tunning again.
 
 Something noticeable is that introduction of L2 regularization in top layers (dense/fully connected layers) was very helpful for the model to generalize.
 
@@ -266,11 +266,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjc2OTUyNyw3NTI0NDgwNSwtMjA0MD
-c5MjE1LDc0ODk4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcs
-MTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMz
-E3NTAwMzI4LDE0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5
-Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNj
-E2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUz
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjM2MjM1MjYsNzUyNDQ4MDUsLTIwND
+A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
+LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
+MxNzUwMDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4
+OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
+YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
+MzA2XX0=
 -->
