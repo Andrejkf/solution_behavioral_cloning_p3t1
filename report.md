@@ -200,11 +200,6 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 
 
 
-Training and valdiation data selection.
-Parameters  tunning:
-Simulation.
-
-
 ### 1. Base Model and Adjustments
 
 The project instructions from Udacity suggest starting from a known self-driving car model and provided a link to the [nVidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) (and later in the student forum, the [comma.ai model](https://github.com/commaai/research/blob/master/train_steering_model.py)) - the diagram below is a depiction of the nVidia model architecture.
@@ -358,11 +353,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM5NzA1ODgsOTI2NTM1MTAyLC0yMD
-QwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0
-NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLT
-EzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3
-ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LD
-E2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3
-NTMwNl19
+eyJoaXN0b3J5IjpbLTM5MDYzMjc2NCw5MjY1MzUxMDIsLTIwND
+A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
+LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
+MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
+OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
+YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
+MzA2XX0=
 -->
