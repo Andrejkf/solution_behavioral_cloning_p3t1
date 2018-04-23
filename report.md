@@ -149,7 +149,7 @@ As it was previously mentioned the final model architecture chosen is based on t
 
 The final parameters set up was the following:
 * Convolutional layers:
-* *
+Kernel size = 
 
 
 
@@ -323,11 +323,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY2NTUzMDksLTEyNjY3MzgyNDcsMT
-E2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3
-NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mz
-k2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2
-NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMD
-YsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3
-ODU0MDkxXX0=
+eyJoaXN0b3J5IjpbMTY0ODUxMjY0NCwtMTI2NjczODI0NywxMT
+YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
+MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOT
+YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
+MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNi
+wtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4
+NTQwOTFdfQ==
 -->
