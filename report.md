@@ -71,7 +71,7 @@ Disclaimer!: To solve this problem I was inspired on [this paper](https://images
 The solution aproach for this project is explained along this document.
 
 Initially an image data set was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test some basic network architectures like a [Deep Fully Connected Network](https://arxiv.org/abs/1603.04930) and a [Convolutional Neural Network](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
-Then further data was collected and unified to train and test the network performace. The data set was preprocessed. Model architecture was selected and parameters tunning process was done as well by trial and error, testing the model performance on the [simulator](https://github.com/udacity/self-driving-car-sim).
+Then further data was collected and unified to train and test the network performace. The data set was preprocessed (removed redundant da. Model architecture was selected and parameters tunning process was done as well by trial and error, testing the model performance on the [simulator](https://github.com/udacity/self-driving-car-sim).
 
 #### Data collection.
 The set of images used on this project was progresively constructed during the whole design aproach process. The paths for all images where gathered in a single csv file (*merged4_modified.csv*) with paths updated to run on a single linux server using python [pandas](https://pandas.pydata.org/) library and custom defined funtions 
@@ -201,9 +201,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMj
-MxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2
-OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5LDE3Nz
-EyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3MjIwMTIsMTAxNTgy
-ODg0M119
+eyJoaXN0b3J5IjpbLTg2NjExODY4NSwyMDA3ODU0MDkxLDE1Mz
+Q1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkz
+OTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNz
+MwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcy
+MjAxMiwxMDE1ODI4ODQzXX0=
 -->
