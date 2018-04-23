@@ -194,7 +194,9 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 ## Results 
 With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
 
-Speed of the model was up to 15 despacement/time units  and 
+Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
+
+
 
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
@@ -269,11 +271,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDQyMTEyLDkyNjUzNTEwMiwtMjA0MD
-c5MjE1LDc0ODk4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcs
-MTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMz
-E3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5
-Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNj
-E2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUz
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTU5NzYwMTAxOCw5MjY1MzUxMDIsLTIwND
+A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
+LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
+MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
+OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
+YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
+MzA2XX0=
 -->
