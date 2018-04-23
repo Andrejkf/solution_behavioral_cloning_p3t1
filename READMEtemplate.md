@@ -72,7 +72,7 @@ The solution aproach for this project is explained along this document.
 
 Initially an image data set was collected usign the [simulator](https://github.com/udacity/self-driving-car-sim) to test some basic network architectures like a [Deep Fully Connected Network](https://arxiv.org/abs/1603.04930) and a [Convolutional Neural Network](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
 Then further data was collected and unified to train and test the network performace. The data set was preprocessed (removed redundant data, data augmentation). Model architecture was selected and *parameters tunning process* was done by trial and error, testing the model performance on the [simulator](https://github.com/udacity/self-driving-car-sim).
-Also, image 
+Also, image files paths were updated to run the project in the server. for that custom functions *mergecsv()* and *path_remove()* where
 
 #### Data collection.
 The set of images used on this project was progresively constructed during the whole design aproach process. The paths for all images where gathered in a single csv file (*merged4_modified.csv*) with paths updated to run on a single linux server using python [pandas](https://pandas.pydata.org/) library and custom defined funtions 
@@ -261,11 +261,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI5MjY0NTYsNjk2NTAwMDQsNzk0MD
-Q3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4
-LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1Nj
-UyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0
-OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNz
-AyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODEx
-OV19
+eyJoaXN0b3J5IjpbNjIzODAxMTA2LDY5NjUwMDA0LDc5NDA0Nz
+Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
+OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
+E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
+MjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMj
+M4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTld
+fQ==
 -->
