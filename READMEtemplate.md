@@ -47,7 +47,11 @@ This is a non exclusive list of openCV functions I used:
 ## Reflection
 To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_behavioral_cloning.py*
 
-Also 
+Also the model performance videos can be viewed on the following links:
+* model.h5 version Zero in track 1 (project)
+* model.h5 version Zero in track 2.
+* model.h5 version Zero in track 1.
+* model.h5 version Zero in track 1.
 
 ---
 ### Content of this repository
@@ -273,11 +277,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIxMTQ1MTksMTMxMDA5NTgxNiwxMz
-c3ODM4NzQxLDc1MjQ0ODA1LC0yMDQwNzkyMTUsNzQ4OTg3Njg2
-LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2LC05NT
-gwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsMTQ5NzIz
-MTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNz
-k0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEy
-NTk4XX0=
+eyJoaXN0b3J5IjpbLTY2MDg1MDM0OSwxMzEwMDk1ODE2LDEzNz
+c4Mzg3NDEsNzUyNDQ4MDUsLTIwNDA3OTIxNSw3NDg5ODc2ODYs
+MzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1OD
+AzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwxNDk3MjMx
+MjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OT
+QwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1
+OThdfQ==
 -->
