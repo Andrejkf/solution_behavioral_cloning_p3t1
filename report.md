@@ -83,7 +83,7 @@ The final data set used to train and validate network performance contains as su
  * Some Images from track2. To help the model generalize.
 * Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns from track1 were extracted.
 
-
+##### Training and validation data selectio
 So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a total of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to note that most of the images have had steering angles with values near 0(zero) as shown in mage below.
 <br/> ![alt text][image1]
  
@@ -177,8 +177,6 @@ Non-trainable params: 0
 The last run accuraccy reprot can be view on file [p3t1accuracy_report.txt](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/other_files/p3t1accuracy_report.txt "p3t1accuracy_report.txt").
 
 
-
-During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
 
 
 
@@ -346,7 +344,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzM2NjE3MywzODAyMTE5MzIsLTEyNj
+eyJoaXN0b3J5IjpbMjA0ODIzNjc3NCwzODAyMTE5MzIsLTEyNj
 Y3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2
 OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNS
 wxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUx
