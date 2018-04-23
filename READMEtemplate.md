@@ -157,6 +157,10 @@ As in the [nvidia model]((https://images.nvidia.com/content/tegra/automotive/ima
 * Activation layers: 'ELU'
 * Flatten layer:
 Used to ensemble convolutional layers with fully connected layers.
+* Dense layers:
+Used as top abstraction layers with the last one with a single neuron in the output for steering prediction (regression).
+
+
 
 
 
@@ -328,11 +332,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDAyMTQ1MiwtMTI2NjczODI0NywxMT
-YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
-MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOT
-YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
-MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNi
-wtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4
-NTQwOTFdfQ==
+eyJoaXN0b3J5IjpbNDkzNjU0NTQsLTEyNjY3MzgyNDcsMTE2MD
+I0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAw
+MzI4LDE0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LD
+Y5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAy
+OTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLT
+Y4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0
+MDkxXX0=
 -->
