@@ -160,9 +160,10 @@ Used to ensemble convolutional layers with fully connected layers.
 * Dense layers:
 Used as top abstraction layers with the last one with a single neuron in the output for regression task.
 
-Loss Funtion:
-Mean squared error. Used for 
+* Loss Funtion:
+Mean squared error. Used for prediction/regression of steering angles.
 
+* 
 
 
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
@@ -333,7 +334,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTEzMTk2MCwtMTI2NjczODI0NywxMT
+eyJoaXN0b3J5IjpbMTI4MTg5Mjk3NSwtMTI2NjczODI0NywxMT
 YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
 MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOT
 YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
