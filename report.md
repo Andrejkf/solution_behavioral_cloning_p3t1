@@ -141,7 +141,7 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
 
 ##### Model Architecture 
-As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with 
+As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the 
 
 
 
@@ -315,7 +315,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMxNzg2MDQsLTgzNTU0MDMwMywxND
+eyJoaXN0b3J5IjpbLTExMjYyMTgwMzEsLTgzNTU0MDMwMywxND
 M5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0
 LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OT
 E5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcw
