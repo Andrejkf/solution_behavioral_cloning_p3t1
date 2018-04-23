@@ -108,10 +108,13 @@ On the seccond stage to get a better distribuion, closer to a guassian one, the 
 So, before starting processing data a process of data cleaning was done, and initial data distribution(in blue) was filtered to get a better distributed training data (in orange) as shoen below.
 <br/> ![alt text][image6]
 
-#### Data preprocessing (Part 2)
+####  Architecture model aproach.
+Initially t
+
+##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image before feeding the model is explained.
 
-Images were loaded in RGB color space (function read_image() in line 327) and 
+Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization
 
 
 
@@ -123,7 +126,7 @@ During the desing process, it was noted that the server machine took a long time
 
 
 
-1.1 Architecture model aproach.
+
 
 Training and valdiation data selection.
 Parameters  tunning:
@@ -282,7 +285,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDc1Nzc4OCwxMTE3Nzg5Mzk2LDY5Nj
+eyJoaXN0b3J5IjpbMTg4NzExODczNiwxMTE3Nzg5Mzk2LDY5Nj
 UwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4
 LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nz
 g1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkx
