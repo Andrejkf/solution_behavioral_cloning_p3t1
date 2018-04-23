@@ -131,8 +131,8 @@ To reduce the number of trainable parameters images where resized to 64x64 pixel
 As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
 
 ##### Data augmentation and model generalization
-To augment the data a custom data_augmentation pipeline was define (function preprocess_tra:
-* 
+To augment the data a custom data_augmentation pipeline was define (function *preprocess_train_data()*), where is applied:
+* rando
 
 
 
@@ -305,11 +305,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyOTA5ODQ0LDE0MzkxMjY0MDUsMTExNz
-c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
-MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
-c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
-MjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMT
-c1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYx
-XX0=
+eyJoaXN0b3J5IjpbMjA1NDI0ODAzNiwxNDM5MTI2NDA1LDExMT
+c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
+LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
+k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
+LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
+E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
+MV19
 -->
