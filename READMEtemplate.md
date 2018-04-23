@@ -127,9 +127,11 @@ Here custom functions and steps applied to images  are explained.
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
 <br/> ![alt text][image7]
 
-To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
-
 As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
+<br/> ![alt text][image8]
+
+To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
+<br/> ![alt text][image9]
 
 ##### Data augmentation and model generalization
 To augment the data a custom data_augmentation pipeline was define (function *preprocess_train_data()*), where is applied:
@@ -345,7 +347,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTExOTQxMiw3NDg5ODc2ODYsMzgwMj
+eyJoaXN0b3J5IjpbLTQwNTUwODM3MSw3NDg5ODc2ODYsMzgwMj
 ExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkz
 OCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwxNDk3MjMxMjgyLD
 E0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2
