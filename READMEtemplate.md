@@ -88,7 +88,7 @@ So basically, during the whole desing process more and more images where added t
 <br/> ![alt text][image1]
  
 #### Data preprocessing (Part 1)
-First, the general data set of 16235 images was [shuffled](https://www.tandfonline.com/doi/abs/10.1080/15536548.2012.10845652) (code line 90) and then splited in training(80%) and validation(20%) sets. Then each subset  Data distributions are shown below.
+First, the general data set of 16235 images was [shuffled](https://www.tandfonline.com/doi/abs/10.1080/15536548.2012.10845652) (code line 90) and then splited in training(80%) and validation(20%) sets.  Data distributions are shown below.
 <br/> ![alt text][image2]
 <br/> ![alt text][image3]
  
@@ -266,7 +266,7 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDYyNjQ3MywxMzc3ODM4NzQxLDc1Mj
+eyJoaXN0b3J5IjpbLTY3OTgyMDIwNSwxMzc3ODM4NzQxLDc1Mj
 Q0ODA1LC0yMDQwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwt
 MTI2NjczODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NT
 k2ODY5NjksLTEzMTc1MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2
