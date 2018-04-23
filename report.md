@@ -88,7 +88,7 @@ So basically, during the whole desing process more and more images where added t
 
 The initial data set was shuffled and then splited into training (80%) and validation(20%) data set.
 
-For training  set, during batch training, data was shuffle each time an image was feed into the model.
+**Note:** For training  set, during batch training, data was shuffle each time an image was feed into the model.
 
 <br/> ![alt text][image1]
  
@@ -271,7 +271,7 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzEwNzk1MiwxMzc3ODM4NzQxLDc1Mj
+eyJoaXN0b3J5IjpbMTMxMDA5NTgxNiwxMzc3ODM4NzQxLDc1Mj
 Q0ODA1LDkyNjUzNTEwMiwtMjA0MDc5MjE1LDc0ODk4NzY4Niwz
 ODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzExNiwtOTU4MD
 M5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAz
