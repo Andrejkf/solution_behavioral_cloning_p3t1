@@ -55,7 +55,7 @@ To make it easier to follow up this reading the most relevant information is wri
 
 * A file named **report.md** with the report for the current project.
 
-* The youtube links to check videos for: [track1v0](https://youtu.be/QSoAm0VID_E), [track2v0](https://youtu.be/LIIXsI2CnoQ), []
+* The external links to check videos for the project: [track1v0](https://youtu.be/QSoAm0VID_E), [track2v0](https://youtu.be/LIIXsI2CnoQ), [track1v1](https://youtu.be/HpTIpCGZP9k), [track2v1](
 
  **model_and_videos_v0** with the short version of the videos for track1 and track2 with the behavioral for the version 0(zero) of the model designed.  [This is the link for full video *track1 model_v0*](https://youtu.be/QSoAm0VID_E) and [This is the link for full video *track2 model_v0*](https://youtu.be/LIIXsI2CnoQ).
 *  A folder named **model_and_videos_v1** with the short version of the videos for track1 and track2 with the behavioral for the version 1(one) of the model designed.  [This is the link for full video *track1 model_v1*](https://youtu.be/HpTIpCGZP9k) and [This is the link for full video *track2 model_v1*](https://youtu.be/pXws6qZlsi4).
@@ -199,7 +199,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MzQxMjQ3LC03MzA5ODExOSwxNzcxMj
-UwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTgwMzIwNzgyNywtNzMwOTgxMTksMTc3MT
+I1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcyMjAxMiwxMDE1ODI4
+ODQzXX0=
 -->
