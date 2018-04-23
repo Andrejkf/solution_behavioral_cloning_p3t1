@@ -146,7 +146,7 @@ As it was previously mentioned the final model architecture chosen is based on t
 <br/> ![alt text][image20]
 
 ##### Data normalization
-Training data was normalized before feeding it into the model using a  keras.lambda
+Training data was normalized before feeding it into the model using a  keras.layers.Lambda layer (code line 629).
 ##### Parameters Selection
 
 The final parameters set up was the following:
@@ -325,11 +325,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTMyODEzLC0xMjY2NzM4MjQ3LDExNj
-AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
-MDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
-w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
-Mjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC
-02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1
-NDA5MV19
+eyJoaXN0b3J5IjpbMTQ3NzAyMDc3NywtMTI2NjczODI0NywxMT
+YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
+MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOT
+YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
+MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNi
+wtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4
+NTQwOTFdfQ==
 -->
