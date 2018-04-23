@@ -224,15 +224,25 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [image9]:  ./report_images/preprocess2.png ""
 
 [image10]:  ./report_images/preprocess3.png""
+
 [image11]:  ./report_images/preprocess4.png""
+
 [image12]:  ./report_images/preprocess5_img1.png""
-[image13]:  ""
-[image14]:  ""
-[image15]:  ""
-[image16]:  ""
-[image17]:  ""
-[image18]:  ""
-[image19]:  ""
+
+[image13]:  ./report_images/preprocess5_img2.png""
+
+[image14]:  ./report_images/preprocess5_img3.png""
+
+[image15]:  ./report_images/preprocess5_img4.png""
+
+[image16]:  ./report_images/preprocess6_img1.png""
+
+[image17]:  ./report_images/preprocess6_img2.png""
+
+[image18]:  ./report_images/preprocess7_img1.png""
+
+[image19]:  ./report_images/preprocess7_img2.png""
+
 [image20]:  ""
 
 
@@ -247,15 +257,15 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 
-./report_images/preprocess5_img2.png
-./report_images/preprocess5_img3.png
-./report_images/preprocess5_img4.png
 
-./report_images/preprocess6_img1.png
-./report_images/preprocess6_img2.png
 
-./report_images/preprocess7_img1.png
-./report_images/preprocess7_img2.png
+
+
+
+
+
+
+
 
 
 
@@ -306,11 +316,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [image33]: ./other_images/report_41.png "stimuli1"
 [image34]: ./other_images/report_42.png "Filters conv 2"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MTM1NDAsNTM0NzEyNTk4LC05OTE5Mj
-U1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwx
-NjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMT
-UwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1
-LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODExOSwxNzcxMj
-UwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4
-NDNdfQ==
+eyJoaXN0b3J5IjpbMTIxODE0OTI2OCw1MzQ3MTI1OTgsLTk5MT
+kyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1
+LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMj
+MxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2
+OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5LDE3Nz
+EyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3MjIwMTIsMTAxNTgy
+ODg0M119
 -->
