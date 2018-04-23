@@ -111,7 +111,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 ####  Architecture model aproach.
 
 Initially a simple deep fully connected network with 1 flatten layer and a dense  layer was trained to check if model was able to run in the simulator. 
-Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) I started with a simple convolution
+Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) I started with a simple convolutional neural network of 1 layer and increasingly
 
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image before feeding the model is explained.
@@ -287,7 +287,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzOTYwNDcsMTExNzc4OTM5Niw2OT
+eyJoaXN0b3J5IjpbLTEyNTg5NTI3MzcsMTExNzc4OTM5Niw2OT
 Y1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3
 OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02OD
 c4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5
