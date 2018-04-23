@@ -153,6 +153,7 @@ Some image samples are shown to ilustrate the preprocess pipeline:
 #### Batch generators
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
 
+
 #### Model Architecture 
 As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the fully conected layers at the top. Also, I used "ELUs" as nonlinear layers because the given better results, on my model  calibration, than the "RELUs".
 
@@ -357,7 +358,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTA1NDg4LC0yMDQwNzkyMTUsNzQ4OT
+eyJoaXN0b3J5IjpbOTI2NTM1MTAyLC0yMDQwNzkyMTUsNzQ4OT
 g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
 LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsMT
 Q5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
