@@ -83,7 +83,7 @@ The final data set used to train and validate network performance contains as su
 * Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns from track1 were extracted.
 
 
-So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a set of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to say that most of the images have had steering angles with values near 0(zero). 
+So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a total of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to say that most of the images have had steering angles with values near 0(zero). 
  
 #### Data preprocessing.
 First, the general data set of 16235 images was splited in training(80%) and validation(20%) sets using 
@@ -201,9 +201,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1Mz
-Q1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkz
-OTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNz
-MwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcy
-MjAxMiwxMDE1ODI4ODQzXX0=
+eyJoaXN0b3J5IjpbMjU3OTkyOTkxLDE2MDQ0ODQ4NjUsMjAwNz
+g1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAy
+NCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYxLC05ND
+I1MTk2ODMsLTczMDk4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMw
+NDksLTEyMTc3MjIwMTIsMTAxNTgyODg0M119
 -->
