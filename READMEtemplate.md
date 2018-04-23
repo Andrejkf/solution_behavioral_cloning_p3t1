@@ -197,7 +197,9 @@ With these starategies the model performed well on track1 (test 1) but partially
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
 to perform better on track 2 (challenge track),
-data images from secc both previous steps could be applied 
+collection of data images from seccond track in addition to the two previously mentioned  steps could be applied.
+
+
 
 
 This could be highly improved with further data preprocessing
@@ -264,11 +266,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk3NTE4ODksLTIwNDA3OTIxNSw3ND
-g5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMx
-MTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOC
-wxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1
-MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OC
-w1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4
-NTkzNl19
+eyJoaXN0b3J5IjpbMTgyNjQ0NDQzOCwtMjA0MDc5MjE1LDc0OD
+k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
+NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LD
+E0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
+MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
+UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
+OTM2XX0=
 -->
