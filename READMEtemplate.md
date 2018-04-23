@@ -133,7 +133,8 @@ As part of the experimentation process, images where converted to YUV color spac
 ##### Data augmentation and model generalization
 To augment the data a custom data_augmentation pipeline was define (function *preprocess_train_data()*), where is applied:
 * random_image_select() : (Code lines 387-400) Used to select pseudo-randomly images from the center, left or rigth camera.
-* random_flip(): (code
+* random_flip(): ( Code lines 405 - 418). Used to flip images pseudorandomly.
+* random_sadow(): (Code lines 
 
 
 
@@ -306,11 +307,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDA4MzQzMCwxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbLTEzMDc5MzEzNTUsMTQzOTEyNjQwNSwxMT
+E3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAx
+NCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MD
+k5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2
+NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xOD
+MxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0
+NjFdfQ==
 -->
