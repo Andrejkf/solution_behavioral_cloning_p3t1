@@ -116,6 +116,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 
 
 
+
 1.1 Architecture model aproach.
 
 Training and valdiation data selection.
@@ -275,7 +276,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTc4OTIyMiw2OTY1MDAwNCw3OTQwND
+eyJoaXN0b3J5IjpbMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwND
 c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
 LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
 IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
