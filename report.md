@@ -54,7 +54,7 @@ To make it easier to follow up this reading the most relevant information is wri
 *  A file named **model.h5** with the trained model ready to test on the [simulator](https://github.com/udacity/self-driving-car-sim).
 * A file named **report.md** with the report for the current project.
 * A video file named **track1.mp4** with the model succesfully working on track one.
-* A folder named **model_and_videos_v0**
+* A folder named **model_and_videos_v0** with the short version of the videos for track1 and track2. Full videos can be viewed at
 Two folders named **model_and_videos_v0** and **model_and_videos_v1** with **short version of the videos** videos for track1, track2, and their corresponding *model.h* files that you may want to use to run them in your local machine. This alre the links for the full videos: [track1_v0]()
 
 ## Approach
@@ -195,6 +195,6 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzQ1NTQ3OSwtMTIxNzcyMjAxMiwxMD
-E1ODI4ODQzXX0=
+eyJoaXN0b3J5IjpbNDgzMTIwMjI4LC0xMjE3NzIyMDEyLDEwMT
+U4Mjg4NDNdfQ==
 -->
