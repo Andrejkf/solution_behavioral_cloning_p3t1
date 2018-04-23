@@ -83,7 +83,7 @@ The final data set used to train and validate network performance contains as su
  * Some Images from track2. To help the model generalize.
 * Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns from track1 were extracted.
 
-##### Training and validation data selectio
+##### Training and validation data selection.
 So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a total of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to note that most of the images have had steering angles with values near 0(zero) as shown in mage below.
 <br/> ![alt text][image1]
  
@@ -344,11 +344,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODIzNjc3NCwzODAyMTE5MzIsLTEyNj
-Y3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2
-OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNS
-wxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUx
-MjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC
-05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4
-NDg2NV19
+eyJoaXN0b3J5IjpbNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2Nj
+czODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5
+NjksLTEzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LD
+ExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEy
+MDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLT
+kwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0
+ODY1XX0=
 -->
