@@ -148,6 +148,7 @@ Some image samples are show to ilustrate the preprocess pipeline:
 
 <br/> ![alt text][image11]
 <br/> ![alt text][image12]
+<br/> ![alt text][image13]
 
 #### Batch generators
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
@@ -356,11 +357,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzIyNzM0NiwtMjA0MDc5MjE1LDc0OD
-k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
-NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LD
-E0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
-MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
-UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
-OTM2XX0=
+eyJoaXN0b3J5IjpbNDg1Nzg0MzUxLC0yMDQwNzkyMTUsNzQ4OT
+g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
+LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsMT
+Q5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
+MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
+M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
+MzZdfQ==
 -->
