@@ -239,16 +239,16 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image17]:  ./report_images/preprocess6_img2.png"brightness augmentation sample 2"
 
-[image18]:  ./report_images/preprocess7_img1.png""
+[image18]:  ./report_images/preprocess7_img1.png" full preproced image sample 1"
 
-[image19]:  ./report_images/preprocess7_img2.png""
+[image19]:  ./report_images/preprocess7_img2.png" full preproced image sample 1"
 
 [image20]:  ""
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA3NTIyODQsMTYxNjUwMjk3OCw1Mz
+eyJoaXN0b3J5IjpbLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1Mz
 Q3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkz
 NiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNT
 M0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5
