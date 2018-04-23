@@ -162,8 +162,8 @@ Used as top abstraction layers with the last one with a single neuron in the out
 
 * Loss Funtion:
 Mean squared error. Used for prediction/regression of steering angles.
-
-* 
+* Learning rate: given the fact I used Adam optimizer starting with fixed learning rate it was adjusted by keras.opti
+* batch size:
 
 
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
@@ -334,7 +334,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTg5Mjk3NSwtMTI2NjczODI0NywxMT
+eyJoaXN0b3J5IjpbLTYwMjYxNjgyNywtMTI2NjczODI0NywxMT
 YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
 MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOT
 YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
