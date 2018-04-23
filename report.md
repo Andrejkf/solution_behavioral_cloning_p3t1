@@ -122,7 +122,7 @@ So, I ended up with two models, one without regularization which is the one alwa
 In summary,  I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding L2 regularization technique to avoid overfitting. The final model description and parameters tunning is drescribed later on on this document.
 
 ##### Data preprocessing (Part 2)
-Here custom functions and steps applied to image  are explained.
+Here custom functions and steps applied to images  are explained.
 
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
 
@@ -304,11 +304,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbLTE3NTM1NDMxNzgsLTgzNTU0MDMwMywxND
+M5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0
+LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OT
+E5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcw
+NSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMz
+IzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgz
+Njk1XX0=
 -->
