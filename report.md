@@ -121,7 +121,7 @@ So, I ended up with two models, one without regularization which is the one alwa
 
 In summary,  I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding L2 regularization technique to avoid overfitting. The final model description and parameters tunning is drescribed later on on this document.
 
-##### Data preprocessing (Part 2)
+#### Data preprocessing (Part 2)
 Here custom functions and steps applied to images  are explained.
 
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
@@ -137,11 +137,12 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * random_sadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
 
-##### Batch generator
+#### Batch generators
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
 
-##### Model Architecture 
+#### Model Architecture 
 As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the fully conected layers at the top. Also, I used "ELUs" as nonlinear layers because the given better results, on my model  calibration, than the "RELUs".
+
 
 
 
@@ -317,11 +318,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzIzMTI4MiwtODM1NTQwMzAzLDE0Mz
-kxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQs
-LTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MT
-kyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1
-LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMj
-MxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2
-OTVdfQ==
+eyJoaXN0b3J5IjpbOTc0NTc1MTQ2LC04MzU1NDAzMDMsMTQzOT
+EyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwt
+MjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOT
+I1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUs
+MTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMz
+E1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5
+NV19
 -->
