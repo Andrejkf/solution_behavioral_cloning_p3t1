@@ -188,7 +188,7 @@ Total params: 296,549
 Trainable params: 296,549
 Non-trainable params: 0
 
-The last run accuraccy reprot can be view on file [p3t1accuracy_report.txt](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/other_files/p3t1accuracy_report.txt "p3t1accuracy_report.txt").
+The last run accuraccy report can be view on file [p3t1accuracy_report.txt](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/other_files/p3t1accuracy_report.txt "p3t1accuracy_report.txt").
 
 
 
@@ -358,11 +358,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NTM1MTAyLC0yMDQwNzkyMTUsNzQ4OT
-g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
-LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsLT
-gzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
-MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
-M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1NzM5NzA1ODgsOTI2NTM1MTAyLC0yMD
+QwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0
+NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLT
+EzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3
+ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LD
+E2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3
+NTMwNl19
 -->
