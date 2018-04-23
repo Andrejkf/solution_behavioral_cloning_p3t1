@@ -54,7 +54,7 @@ To make it easier to follow up this reading the most relevant information is wri
 *  A file named **model.h5** with the trained model ready to test on the [simulator](https://github.com/udacity/self-driving-car-sim).
 * A file named **report.md** with the report for the current project.
 * A video file named **track1.mp4** with the model succesfully working on track one.
-* * Two folders A video file named ** track1.mp4** with the same model used on track one, but just to evalaute its behavior on new data. That is, behaviour on track 2.
+* Two folders named **model_and_videos_v0** and **model_and_videos_v1** with the videos for track1 and track2.
 
 ## Approach
 For this project, steps provided were followed as advised in the [rubric](https://review.udacity.com/#!/rubrics/432/view) .
@@ -194,10 +194,10 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjA2ODY0LDE1MjI2NTE1NTQsODkxND
-YyNzMyLC0xNDUwOTI4MzY3LC0xNTcyNTg2NDY3LC0xNjI4NjQ2
-NjAzLDE2MTA1OTg4NjksMzMzNzcyOTM3LDE0MTg1MjM1ODgsMT
-U3NDgzOTk3MywtMTkwNjI3NTY5NSwtMTA0NDE5ODM1MiwtNTkx
-MjY0NzAyLC0zMDAzMTE5MTAsLTEyMjY2OTM2ODcsMTkxMjk2Mj
-M4Miw0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbLTYxMzAwNDQ0NCwxNTIyNjUxNTU0LDg5MT
+Q2MjczMiwtMTQ1MDkyODM2NywtMTU3MjU4NjQ2NywtMTYyODY0
+NjYwMywxNjEwNTk4ODY5LDMzMzc3MjkzNywxNDE4NTIzNTg4LD
+E1NzQ4Mzk5NzMsLTE5MDYyNzU2OTUsLTEwNDQxOTgzNTIsLTU5
+MTI2NDcwMiwtMzAwMzExOTEwLC0xMjI2NjkzNjg3LDE5MTI5Nj
+IzODIsNDY3NzE5OTI4XX0=
 -->
