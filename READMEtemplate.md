@@ -95,7 +95,7 @@ First, the general data set of 16235 images was [shuffled](https://www.tandfonli
 It was noticed that most of the initial data (without preprocessing) used was linked to predicting responses to drive straighforward.
 So *from code lines 138 to 320* data was preprocesed to get a more balanced distribution, close to a gaussian distribution.
 
-Funtions 
+Funtion get_list_pos() and find_pos() were defined to get the position of the path o the redundant images (code lines 
 
 
 
@@ -263,11 +263,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTEwNTIsNjk2NTAwMDQsNzk0MDQ3Nj
-g0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05
-OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMT
-cwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwy
-MzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMz
-gzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODExOV19
-
+eyJoaXN0b3J5IjpbLTYyMDYyNTMwMyw2OTY1MDAwNCw3OTQwND
+c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
+LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
+IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
+LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
+IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
+XX0=
 -->
