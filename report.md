@@ -109,7 +109,9 @@ So, before starting processing data a process of data cleaning was done, and ini
 <br/> ![alt text][image6]
 
 #### Data preprocessing (Part 2)
-Here custom funtions and steps applied to image before 
+Here custom funtions and steps applied to image before feeding the model is explained.
+
+Images were loaded in RGB color space (function read_image() in line 327) and 
 
 
 
@@ -280,7 +282,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzY5MzEyOSwxMTE3Nzg5Mzk2LDY5Nj
+eyJoaXN0b3J5IjpbMTUyMDc1Nzc4OCwxMTE3Nzg5Mzk2LDY5Nj
 UwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4
 LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nz
 g1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkx
