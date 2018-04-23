@@ -137,6 +137,8 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * random_sadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
 
+##### Batch generator
+Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory 
 
 
 
@@ -309,11 +311,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY0MjQ1MzQsMTQzOTEyNjQwNSwxMT
-E3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAx
-NCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MD
-k5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2
-NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xOD
-MxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTk5NDgxODU2NCwxNDM5MTI2NDA1LDExMT
+c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
+LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
+k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
+LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
+E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
+MV19
 -->
