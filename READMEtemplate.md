@@ -146,7 +146,7 @@ As it was previously mentioned the final model architecture chosen is based on t
 <br/> ![alt text][image20]
 
 ##### Data normalization
-Training data was normili
+Training data was normalized before feeding it into the model using a  keras
 ##### Parameters Selection
 
 The final parameters set up was the following:
@@ -325,7 +325,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NDI2OTMwLC0xMjY2NzM4MjQ3LDExNj
+eyJoaXN0b3J5IjpbNzY1NjIwOTc4LC0xMjY2NzM4MjQ3LDExNj
 AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
 MDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
 w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
