@@ -110,6 +110,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 
 #### Data preprocessing (Part 2)
 
+To generate a more robust model 
 
 
 
@@ -276,11 +277,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwND
-c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
-LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
-IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
-LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
-IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
+eyJoaXN0b3J5IjpbOTgxNzcxMzk0LDExMTc3ODkzOTYsNjk2NT
+AwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5Nzgs
+NTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3OD
+U5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEs
+MTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mz
+g5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5Njgz
 XX0=
 -->
