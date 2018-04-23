@@ -165,7 +165,8 @@ Mean squared error. Used for prediction/regression of steering angles.
 * Learning rate: given the fact I used Adam optimizer starting with fixed learning rate it was adjusted by *keras.optimizers.Adam*.
 * Optimiztion algortihm: 
 Adam. Used because it adjustes the learning rate dirung the training process using stochastic gradient based optimization.
-* batch size: 
+* batch size: 64. Use to work very fast on Nvidia GPU quadro P1000.
+
 
 
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
@@ -336,7 +337,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMzU5OTg2LC0xMjY2NzM4MjQ3LDExNj
+eyJoaXN0b3J5IjpbMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNj
 AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
 MDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
 w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
