@@ -235,9 +235,9 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image15]:  ./report_images/preprocess5_img4.png" random shadow sample 4"
 
-[image16]:  ./report_images/preprocess6_img1.png""
+[image16]:  ./report_images/preprocess6_img1.png"brightness augmentation sample 1"
 
-[image17]:  ./report_images/preprocess6_img2.png""
+[image17]:  ./report_images/preprocess6_img2.png"brightness augmentation sample 2"
 
 [image18]:  ./report_images/preprocess7_img1.png""
 
@@ -248,7 +248,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQwMzI1NTUsMTYxNjUwMjk3OCw1Mz
+eyJoaXN0b3J5IjpbLTE4NjA3NTIyODQsMTYxNjUwMjk3OCw1Mz
 Q3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkz
 NiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNT
 M0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5
