@@ -87,7 +87,10 @@ The final data set used to train and validate network performance contains as su
 So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a total of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to note that most of the images have had steering angles with values near 0(zero) as shown in mage below.
 
 The initial data set was shuffled and then splited into training (80%) and validation(20%) data set.
-Thend 
+
+For training  set, during batch training, data was shuffle each time an image was feed into the model.
+
+
 
 <br/> ![alt text][image1]
  
@@ -270,11 +273,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjYyMTM5MiwxMzc3ODM4NzQxLDc1Mj
-Q0ODA1LDkyNjUzNTEwMiwtMjA0MDc5MjE1LDc0ODk4NzY4Niwz
-ODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzExNiwtOTU4MD
-M5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAz
-MDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5ND
-A0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5
-OF19
+eyJoaXN0b3J5IjpbLTEzNDIzNTA2NjgsMTM3NzgzODc0MSw3NT
+I0NDgwNSw5MjY1MzUxMDIsLTIwNDA3OTIxNSw3NDg5ODc2ODYs
+MzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1OD
+AzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQw
+MzAzLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OT
+QwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1
+OThdfQ==
 -->
