@@ -139,6 +139,9 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * random_flip(): ( Code lines 405 - 418). Used to flip images pseudorandomly.
 * random_sadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
+Some image samples are show to ilustrate the preprocess pipeline:
+<br/> ![alt text][image20]
+<br/> ![alt text][image20]
 
 #### Batch generators
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
@@ -347,11 +350,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTUwODM3MSw3NDg5ODc2ODYsMzgwMj
-ExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkz
-OCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwxNDk3MjMxMjgyLD
-E0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2
-ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLT
-k5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIx
-NzA1XX0=
+eyJoaXN0b3J5IjpbODI0MjQ0MDk3LDc0ODk4NzY4NiwzODAyMT
+E5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4
+LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LDE0OTcyMzEyODIsMT
+QzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4
+NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOT
+kxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3
+MDVdfQ==
 -->
