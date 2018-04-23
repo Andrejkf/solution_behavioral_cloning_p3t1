@@ -95,7 +95,7 @@ First, the general data set of 16235 images was [shuffled](https://www.tandfonli
 It was noticed that most of the initial data (without preprocessing) used was linked to predicting responses to drive straighforward.
 So *from code lines 138 to 320* data was preprocesed to get a more balanced distribution, close to a gaussian distribution.
 
-Funtion get_list_pos() and find_pos() were defined to get the position of the path o the redundant images (code lines 
+Funtion get_list_pos() and find_pos() were defined to get the position of the path o the redundant images (code lines 138 to 193). Funtion my_hist() was designed just to understand how to filte
 
 
 
@@ -263,7 +263,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDYyNTMwMyw2OTY1MDAwNCw3OTQwND
+eyJoaXN0b3J5IjpbLTUzODg1ODY1Nyw2OTY1MDAwNCw3OTQwND
 c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
 LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
 IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
