@@ -125,7 +125,7 @@ In summary,  I used a very similar model to the [nvidia model](https://images.nv
 Here custom functions and steps applied to images  are explained.
 
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
-
+<br/> ![alt text][image6]
 To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
 
 As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
@@ -344,11 +344,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2Nj
-czODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5
-NjksLTEzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LD
-ExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEy
-MDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLT
-kwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0
-ODY1XX0=
+eyJoaXN0b3J5IjpbMjA1ODI2NDczMSw3NDg5ODc2ODYsMzgwMj
+ExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkz
+OCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQwMzAzLD
+E0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2
+ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLT
+k5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIx
+NzA1XX0=
 -->
