@@ -53,8 +53,8 @@ To make it easier to follow up this reading the most relevant information is wri
 * A file named **drive.py** to be able to run the model on your local machine.
 *  A file named **model.h5** with the trained model ready to test on the [simulator](https://github.com/udacity/self-driving-car-sim).
 * A file named **report.md** with the report for the current project.
-* Note: to check out the full video submission you may want to click here
-* A folder named **model_and_videos_v0** with the short version of the videos for track1 and track2 with the behavioral for the version 0(zero) of the model designed.  [This is the link for full video *track1 model_v0*](https://youtu.be/QSoAm0VID_E) and [This is the link for full video *track2 model_v0*](https://youtu.be/LIIXsI2CnoQ).
+* the youtube links to check 
+ **model_and_videos_v0** with the short version of the videos for track1 and track2 with the behavioral for the version 0(zero) of the model designed.  [This is the link for full video *track1 model_v0*](https://youtu.be/QSoAm0VID_E) and [This is the link for full video *track2 model_v0*](https://youtu.be/LIIXsI2CnoQ).
 *  A folder named **model_and_videos_v1** with the short version of the videos for track1 and track2 with the behavioral for the version 1(one) of the model designed.  [This is the link for full video *track1 model_v1*](https://youtu.be/HpTIpCGZP9k) and [This is the link for full video *track2 model_v1*](https://youtu.be/pXws6qZlsi4).
 
 
@@ -196,6 +196,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDk4MTE5LDE3NzEyNTA2ODUsLTE3Mj
-A2MTMwNDksLTEyMTc3MjIwMTIsMTAxNTgyODg0M119
+eyJoaXN0b3J5IjpbLTcxNDU3MDI2NCwtNzMwOTgxMTksMTc3MT
+I1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcyMjAxMiwxMDE1ODI4
+ODQzXX0=
 -->
