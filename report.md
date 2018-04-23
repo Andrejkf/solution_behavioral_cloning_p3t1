@@ -205,15 +205,16 @@ About dropout layers. They also helped to substantially increase the model abstr
 
 
 ## To improve
+I want to summarize the posible improvements for this submission:
 
-Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
-More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
-To perform better on track 2 (challenge track),
+* Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
+
+* More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
+
+* To perform better on track 2 (challenge track),
 collection of data images from seccond track in addition to the two previously mentioned  steps could be applied.
-A simple PID controller for proportional, diferentiation, Integrator controller should be added by the student to the file drive.py to make the model work better.
 
-
-
+* A simple PID controller should be added by the author of this doucc to the file drive.py to make the model work better.
 
 This could be highly improved with further data preprocessing
 These strategies resulted in a model that performed well on both test and challenge tracks. The final dataset was a combination of Udacity's and my own, and included a total of 59,664 data points. From these, only 17,350 remained after distribution flattening, and this set was further split into a training set of 16,482 (95%) data points and a test set of 868 (5%) data points. The validation data for the model is pulled from the training set, but doesn't undergo any jitter. The model architecture is described in the paragraphs above, but reiterated in the image below:
@@ -279,11 +280,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjc5MjQwMyw5MjY1MzUxMDIsLTIwND
-A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
-LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
-MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
-OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
-YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
-MzA2XX0=
+eyJoaXN0b3J5IjpbODY4NDQ4NjIsOTI2NTM1MTAyLC0yMDQwNz
+kyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0Nywx
+MTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMT
+c1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkz
+OTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MT
+Y1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMw
+Nl19
 -->
