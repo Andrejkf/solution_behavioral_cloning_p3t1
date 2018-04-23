@@ -195,7 +195,7 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 
 With these starategies the model performed well (safety for pasengers) on track1 (test 1) but partially on track2 (challenge) track. 
 
-Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
+Speed of the model was up to 15 dispacement/time units  and honestly I would like to have it working at maximum speed.
 
 It was really hard to tune parameters for this model. Specifically because as the number of free parameters of the model increased the optimization complexity of the problem increased. (that means , I needed to start parameters tunning again.
 
@@ -266,11 +266,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDQ4MDUsOTI2NTM1MTAyLC0yMDQwNz
-kyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0Nywx
-MTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMT
-c1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkz
-OTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MT
-Y1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMw
-Nl19
+eyJoaXN0b3J5IjpbLTg5Mjc2OTUyNyw3NTI0NDgwNSw5MjY1Mz
+UxMDIsLTIwNDA3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0x
+MjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OT
+Y4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0
+MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNz
+I1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUz
+NF19
 -->
