@@ -6,7 +6,7 @@ This is the report for project 2, term 1.
 
 In this project a convolutional deep neural network model was used to effectively teach a car to drive autonomously in a simulated driving application to predict good driving behaviour from a human.
 
-The total data used in this project is a union between *data provided by udacity* and *data collected by the student using a [simulator from udacity team](https://github.com/udacity/self-driving-car-sim).
+The total data used in this project is a union between *data provided by udacity* and *data collected by the student* using a [simulator from udacity team](https://github.com/udacity/self-driving-car-sim).
 
 
 to apply deep learning principles to effectively teach a car to drive autonomously in a simulated driving application
@@ -45,7 +45,7 @@ This is a non exclusive list of openCV functions I used:
 
 ---
 ## Reflection
-To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_behavioral_cloning...ipynb
+To make it easier to follow up this reading the most relevant information is written on this readme file, however, you can find all step by step process with full explanation in detail and all coding lines on file *solution_behavioral_cloning.ipynb
 
 ---
 ### Content of this repository
@@ -201,8 +201,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5ND
-M4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4
-MywtNzMwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMT
-IxNzcyMjAxMiwxMDE1ODI4ODQzXX0=
+eyJoaXN0b3J5IjpbMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
+E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
+MSwtOTQyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUwNjg1LC0xNz
+IwNjEzMDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4NDNdfQ==
 -->
