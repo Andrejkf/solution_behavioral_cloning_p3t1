@@ -147,7 +147,9 @@ As it was previously mentioned the final model architecture chosen is based on t
 
 ##### Parameters Selection
 
-The final parameters set up was the f
+The final parameters set up was the following:
+* Convolutional layers:
+* *
 
 
 
@@ -321,7 +323,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY1NTk1MjcsLTEyNjY3MzgyNDcsMT
+eyJoaXN0b3J5IjpbLTE4NzY2NTUzMDksLTEyNjY3MzgyNDcsMT
 E2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3
 NTAwMzI4LDE0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mz
 k2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2
