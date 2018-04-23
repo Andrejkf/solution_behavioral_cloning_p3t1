@@ -108,12 +108,14 @@ On the seccond stage to get a better distribuion, closer to a guassian one, the 
 So, before starting processing data a process of data cleaning was done, and initial data distribution(in blue) was filtered to get a better distributed training data (in orange) as shoen below.
 <br/> ![alt text][image6]
 
-####  Architecture model aproach.
+####  Brief Solution description aproach.
 
 Initially a simple deep fully connected network with 1 flatten layer and a dense  layer was trained to check if model was able to run in the simulator. 
 Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) I started with a simple convolutional neural network of 1 convolutional layer and progressively I was testing performance training the model while increasing the number of convolutional layers.
 
-Then, noticing that network performance was still bad: I mean, that the car went out of the track, I decided to look for data augmentation and I started and seccond preprocessing part for training data.
+Then, noticing that network performance was still bad: I mean, that the car went out of the track, I decided to look for data augmentation and I started and seccond preprocessing part for training data and a third part doing data augmentation.
+
+
 
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image  are explained.
@@ -124,7 +126,7 @@ To reduce the number of trainable parameters images where resized to 64x64 pixel
 
 As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
 
-##### Data augmentation and model generalzi
+##### Data augmentation and model generalization
 To augmen
 
 
@@ -298,11 +300,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTE3NTg2MywxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbLTE1MTMwNTQzMTYsMTQzOTEyNjQwNSwxMT
+E3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAx
+NCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MD
+k5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2
+NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xOD
+MxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0
+NjFdfQ==
 -->
