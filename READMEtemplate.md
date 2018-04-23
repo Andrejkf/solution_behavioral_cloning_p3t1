@@ -211,20 +211,24 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 ./report_images/hist4.png
 ./report_images/hist5.png
 ./report_images/hist6.png
+
 ./report_images/preprocess1.png
 ./report_images/preprocess1_in_yuv.png
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
-./report_images/
+
+./report_images/preprocess2.png
+./report_images/preprocess3.png
+./report_images/preprocess4.png
+
+./report_images/preprocess5_img1.png
+./report_images/preprocess5_img2.png
+./report_images/preprocess5_img3.png
+./report_images/preprocess5_img4.png
+
+./report_images/preprocess6_img1.png
+./report_images/preprocess6_img2.png
+
+./report_images/preprocess7_img1.png
+./report_images/preprocess7_img2.png
 
 
 
@@ -274,10 +278,10 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [image33]: ./other_images/report_41.png "stimuli1"
 [image34]: ./other_images/report_42.png "Filters conv 2"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc1MDk3ODUsMTQ1NjUyMTcwNSwxNj
-A0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUw
-NDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LD
-U1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUw
-Njg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4ND
-NdfQ==
+eyJoaXN0b3J5IjpbLTExMzQwNjE0MiwxNDU2NTIxNzA1LDE2MD
+Q0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0
+NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNT
+UyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5LDE3NzEyNTA2
+ODUsLTE3MjA2MTMwNDksLTEyMTc3MjIwMTIsMTAxNTgyODg0M1
+19
 -->
