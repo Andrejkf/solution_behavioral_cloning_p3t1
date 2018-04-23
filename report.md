@@ -205,8 +205,16 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 ---
 [//]: # (Image References)
 
-./report_images/
-[hist1.png](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/report_images/hist1.png "hist1.png")
+./report_images/hist1.png
+./report_images/hist1.png
+./report_images/hist1.png
+./report_images/hist1.png
+./report_images/hist1.png
+./report_images/hist1.png
+
+
+
+
 [image1]: ./other_images/report_1.png "Sample images from training dataset"
 [image2]: ./other_images/report_2.png "training and validation datasets histograms"
 [image3]: ./other_images/report_3.png "test set histogram"
@@ -253,9 +261,9 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [image33]: ./other_images/report_41.png "stimuli1"
 [image34]: ./other_images/report_42.png "Filters conv 2"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDA1MDgwMiwxNjA0NDg0ODY1LDIwMD
-c4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMw
-MjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOT
-QyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEz
-MDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4NDNdfQ==
+eyJoaXN0b3J5IjpbOTcxNDg3NTYxLDE2MDQ0ODQ4NjUsMjAwNz
+g1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAy
+NCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYxLC05ND
+I1MTk2ODMsLTczMDk4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMw
+NDksLTEyMTc3MjIwMTIsMTAxNTgyODg0M119
 -->
