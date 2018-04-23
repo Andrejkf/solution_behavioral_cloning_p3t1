@@ -73,11 +73,12 @@ The final data set used to train and validate network performance contains as su
 * Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns from track1 were extracted.
 * Some Images from track2. To help the model generalize.
 
+So basically, during the whole desing process more and more iamges 
  
-
+#### Data preprocessing.
 
 1.1 Architecture model aproach.
-Data preprocessing.
+
 Training and valdiation data selection.
 Parameters  tunning:
 Simulation.
@@ -189,9 +190,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNzQ0NDg2LC0xNDUwOTI4MzY3LC0xNT
-cyNTg2NDY3LC0xNjI4NjQ2NjAzLDE2MTA1OTg4NjksMzMzNzcy
-OTM3LDE0MTg1MjM1ODgsMTU3NDgzOTk3MywtMTkwNjI3NTY5NS
-wtMTA0NDE5ODM1MiwtNTkxMjY0NzAyLC0zMDAzMTE5MTAsLTEy
-MjY2OTM2ODcsMTkxMjk2MjM4Miw0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbMTQyOTU0MzE1NywtMTQ1MDkyODM2NywtMT
+U3MjU4NjQ2NywtMTYyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3
+MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OT
+UsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0x
+MjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
 -->
