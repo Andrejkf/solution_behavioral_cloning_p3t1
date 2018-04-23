@@ -196,8 +196,11 @@ With these starategies the model performed well on track1 (test 1) but partially
 
 Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
 
+## Conclusions and discussions
 
+Something noticeable is that introduction of L2 regularization in 
 
+# To imrpove
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
 To perform better on track 2 (challenge track),
@@ -271,7 +274,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzYwMTAxOCw5MjY1MzUxMDIsLTIwND
+eyJoaXN0b3J5IjpbLTY0NDc0ODA3Myw5MjY1MzUxMDIsLTIwND
 A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
 LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
 MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
