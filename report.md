@@ -219,13 +219,13 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image7]:  ./report_images/preprocess1.png "sample image in rgb"
 
-[image8]:  ./report_images/preprocess1_in_yuv.png "sample image i"
+[image8]:  ./report_images/preprocess1_in_yuv.png "sample image in yuv"
 
-[image9]:  ./report_images/preprocess2.png ""
+[image9]:  ./report_images/preprocess2.png "cropped image"
 
-[image10]:  ./report_images/preprocess3.png""
+[image10]:  ./report_images/preprocess3.png" resized 64x64 image"
 
-[image11]:  ./report_images/preprocess4.png""
+[image11]:  ./report_images/preprocess4.png ""
 
 [image12]:  ./report_images/preprocess5_img1.png""
 
@@ -248,7 +248,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk0OTc1ODEsMTYxNjUwMjk3OCw1Mz
+eyJoaXN0b3J5IjpbLTE0MTA4OTE2OTgsMTYxNjUwMjk3OCw1Mz
 Q3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkz
 NiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNT
 M0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5
