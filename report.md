@@ -194,7 +194,7 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 ## Results 
 With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
 
-Further data preprocessing.
+Further data preprocessing. For example, by shifting vertically and horizontally the image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle valeus were in most cases close to zero.
 
 
@@ -262,11 +262,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MzY5Njk2LDkyNjUzNTEwMiwtMjA0MD
-c5MjE1LDc0ODk4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcs
-MTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMz
-E3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5
-Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNj
-E2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUz
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjY1NzI2NTMsOTI2NTM1MTAyLC0yMD
+QwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0
+NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLT
+EzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3
+ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LD
+E2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3
+NTMwNl19
 -->
