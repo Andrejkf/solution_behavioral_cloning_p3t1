@@ -70,7 +70,9 @@ Then further data was collected and unified to train and test the network perfor
 The final data set used to train and validate network performance contains as subset:
 * The set of images provided on the project. 
 * Images from one lap clock wise and one counterclockwise from track 1.
-* Images from track2 in the cl
+* Also, during debugging process, a biased behavior to drive straig
+* Some Images from track2. To help the model generalize.
+* 
 
 
 1.1 Architecture model aproach.
@@ -186,9 +188,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTc5MDUzMywtMTQ1MDkyODM2NywtMT
-U3MjU4NjQ2NywtMTYyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3
-MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OT
-UsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0x
-MjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbNTc0NDUyNTE5LC0xNDUwOTI4MzY3LC0xNT
+cyNTg2NDY3LC0xNjI4NjQ2NjAzLDE2MTA1OTg4NjksMzMzNzcy
+OTM3LDE0MTg1MjM1ODgsMTU3NDgzOTk3MywtMTkwNjI3NTY5NS
+wtMTA0NDE5ODM1MiwtNTkxMjY0NzAyLC0zMDAzMTE5MTAsLTEy
+MjY2OTM2ODcsMTkxMjk2MjM4Miw0Njc3MTk5MjhdfQ==
 -->
