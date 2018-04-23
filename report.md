@@ -118,7 +118,7 @@ Then, noticing that network performance was still bad: I mean, that the car went
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image  are explained.
 
-Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization
+Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each i
 
 
 
@@ -289,7 +289,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExODM5MDg2LDE0MzkxMjY0MDUsMTExNz
+eyJoaXN0b3J5IjpbODUzMTQyNDY3LDE0MzkxMjY0MDUsMTExNz
 c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
 MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
 c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
