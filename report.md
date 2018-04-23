@@ -64,7 +64,7 @@ To make it easier to follow up this reading the most relevant information is wri
 ## Approach
 For this project, steps provided were followed as advised in the [rubric](https://review.udacity.com/#!/rubrics/432/view) .
 
-Disclaimer!: To solve this problem I was inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) for model design and data collection, [this post](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9) for data preprocessing, on [this student approach for further data preprocessing](https://github.com/naokishibuya) and [this post](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) to get shadowed images during the data augmentation process and also some content from the lessons .
+Disclaimer!: To solve this problem I was inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) for model design and data collection, [this post](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9) for data preprocessing, on [this student approach for further data preprocessing](https://github.com/naokishibuya) and [this post](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) to get shadowed images during the data augmentation process. All that said, thank you very much for reading this document!.
 
 ### Solution design process.
 
@@ -201,7 +201,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc0MTY2ODMsMTk0Mzg5OTM5MCwxNz
+eyJoaXN0b3J5IjpbLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNz
 AyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODEx
 OSwxNzcxMjUwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLD
 EwMTU4Mjg4NDNdfQ==
