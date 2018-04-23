@@ -158,10 +158,10 @@ As in the [nvidia model]((https://images.nvidia.com/content/tegra/automotive/ima
 * Flatten layer:
 Used to ensemble convolutional layers with fully connected layers.
 * Dense layers:
-Used as top abstraction layers with the last one with a single neuron in the output for steering prediction (regression).
+Used as top abstraction layers with the last one with a single neuron in the output for regression task.
 
 Loss Funtion:
-Mean squarred error
+Mean squared error. Used for 
 
 
 
@@ -333,11 +333,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0Nzg0NjMyLC0xMjY2NzM4MjQ3LDExNj
-AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
-MDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
-w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
-Mjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC
-02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1
-NDA5MV19
+eyJoaXN0b3J5IjpbLTQ5NTEzMTk2MCwtMTI2NjczODI0NywxMT
+YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
+MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOT
+YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
+MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNi
+wtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4
+NTQwOTFdfQ==
 -->
