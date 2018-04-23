@@ -76,7 +76,7 @@ The final data set used to train and validate network performance contains as su
 So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a set of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to say that most of the images have had steering angles with values near 0(zero). 
  
 #### Data preprocessing.
-First the general data set of 16235 images was splited in
+First the general data set of 16235 images was splited in training and validation
 It was noticed that most of the initial data (without preprocessing) used was linked to a predicting response to drive straighforward.
 1.1 Architecture model aproach.
 
@@ -191,9 +191,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODI1MzI3NywtMTQ1MDkyODM2NywtMT
-U3MjU4NjQ2NywtMTYyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3
-MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OT
-UsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0x
-MjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
+eyJoaXN0b3J5IjpbLTIwNjUzMTc0ODMsLTE0NTA5MjgzNjcsLT
+E1NzI1ODY0NjcsLTE2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMzM3
+NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Nj
+k1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwt
+MTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
 -->
