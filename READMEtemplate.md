@@ -113,7 +113,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 Initially a simple deep fully connected network with 1 flatten layer and a dense  layer was trained to check if model was able to run in the simulator. 
 Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) I started with a simple convolutional neural network of 1 convolutional layer and progressively I was testing performance training the model while increasing the number of convolutional layers.
 
-
+Then, noticing that network performance
 
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image before feeding the model is explained.
@@ -289,11 +289,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE2Njg0MDYsMTExNzc4OTM5Niw2OT
-Y1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3
-OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02OD
-c4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5
-MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOT
-QzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5Nj
+UwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4
+LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nz
+g1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkx
+LDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5ND
+M4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4
+M119
 -->
