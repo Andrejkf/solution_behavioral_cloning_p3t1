@@ -192,7 +192,7 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 
 
 ## Results 
-
+With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. This sititation 
 These strategies resulted in a model that performed well on both test and challenge tracks. The final dataset was a combination of Udacity's and my own, and included a total of 59,664 data points. From these, only 17,350 remained after distribution flattening, and this set was further split into a training set of 16,482 (95%) data points and a test set of 868 (5%) data points. The validation data for the model is pulled from the training set, but doesn't undergo any jitter. The model architecture is described in the paragraphs above, but reiterated in the image below:
 
 <img src="./images/model_diagram.jpeg?raw=true" width="400px">
@@ -256,7 +256,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODA3NjI2Niw5MjY1MzUxMDIsLTIwND
+eyJoaXN0b3J5IjpbMTA3OTQwNDYwMiw5MjY1MzUxMDIsLTIwND
 A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
 LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
 MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
