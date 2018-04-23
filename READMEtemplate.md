@@ -200,7 +200,8 @@ Further data preprocessing. For example, by randomly shifting vertically and hor
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
 To perform better on track 2 (challenge track),
 collection of data images from seccond track in addition to the two previously mentioned  steps could be applied.
-A simple PID controller for proportional, diferentiation, Integrator controller sho
+A simple PID controller for proportional, diferentiation, Integrator controller should be added by the student to the file drive.py to make the model work better.
+
 
 
 
@@ -268,7 +269,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTA2MzY3NiwtMjA0MDc5MjE1LDc0OD
+eyJoaXN0b3J5IjpbMTU1MzMzODg4MCwtMjA0MDc5MjE1LDc0OD
 k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
 NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LD
 E0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
