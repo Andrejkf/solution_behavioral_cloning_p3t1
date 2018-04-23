@@ -137,7 +137,7 @@ To reduce the number of trainable parameters images where resized to 64x64 pixel
 To augment the data a custom data_augmentation pipeline was define (function *preprocess_train_data()*), where is applied:
 * random_image_select() : (Code lines 387-400) Used to select pseudo-randomly images from the center, left or rigth camera.
 * random_flip(): ( Code lines 405 - 418). Used to flip images pseudorandomly.
-* random_sadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
+* random_shadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
 Some image samples are show to ilustrate the preprocess pipeline:
 <br/> ![alt text][image20]
@@ -350,11 +350,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MjQ0MDk3LDc0ODk4NzY4NiwzODAyMT
-E5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzExNiwtOTU4MDM5OTM4
-LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAzMDMsMT
-QzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4
-NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOT
-kxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA3OTIxNSw3NDg5ODc2ODYsMzgwMj
+ExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkz
+OCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQwMzAzLD
+E0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2
+ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLT
+k5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIx
+NzA1XX0=
 -->
