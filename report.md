@@ -1,5 +1,5 @@
 # Behavioral Cloning Project
-hello
+
 ## Writeup report for project 3, term 1.
 
 This is the report for project 2, term 1.
@@ -266,11 +266,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTMzOTMwNyw5MjY1MzUxMDIsLTIwND
-A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
-LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
-MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
-OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
-YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
-MzA2XX0=
+eyJoaXN0b3J5IjpbNzUyNDQ4MDUsOTI2NTM1MTAyLC0yMDQwNz
+kyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0Nywx
+MTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMT
+c1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkz
+OTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MT
+Y1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMw
+Nl19
 -->
