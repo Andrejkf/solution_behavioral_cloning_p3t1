@@ -195,7 +195,8 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
 
 Further data preprocessing.
-More accurated data collection. To be honest, in most of mycollected data 
+More accurated data collection. To be honest, in most of mycollected data steering angle valeus were in most cases close to zero.
+
 
 This could be highly improved with further data preprocessing
 These strategies resulted in a model that performed well on both test and challenge tracks. The final dataset was a combination of Udacity's and my own, and included a total of 59,664 data points. From these, only 17,350 remained after distribution flattening, and this set was further split into a training set of 16,482 (95%) data points and a test set of 868 (5%) data points. The validation data for the model is pulled from the training set, but doesn't undergo any jitter. The model architecture is described in the paragraphs above, but reiterated in the image below:
@@ -261,11 +262,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjg4MzQ2MywtMjA0MDc5MjE1LDc0OD
-k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
-NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LD
-E0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
-MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
-UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
-OTM2XX0=
+eyJoaXN0b3J5IjpbNjU0MzY5Njk2LC0yMDQwNzkyMTUsNzQ4OT
+g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
+LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsMT
+Q5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
+MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
+M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
+MzZdfQ==
 -->
