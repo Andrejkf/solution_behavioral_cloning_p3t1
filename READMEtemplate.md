@@ -191,7 +191,7 @@ Non-trainable params: 0
 The last run accuraccy report can be view on file [p3t1accuracy_report.txt](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/other_files/p3t1accuracy_report.txt "p3t1accuracy_report.txt").
 
 
-### 5. Data Visualization
+### Data Visualization
 
 
 
@@ -260,7 +260,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5OTk5NzYsLTIwNDA3OTIxNSw3ND
+eyJoaXN0b3J5IjpbLTE3MDUyMzYyMDEsLTIwNDA3OTIxNSw3ND
 g5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMx
 MTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOC
 wxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1
