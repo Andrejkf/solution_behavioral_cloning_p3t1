@@ -149,7 +149,17 @@ As it was previously mentioned the final model architecture chosen is based on t
 
 The final parameters set up was the following:
 * Convolutional layers:
-Kernel size = 
+As in the [nvidia model]((https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) ) I used strided convolutions in the first three convolutional layers with a 2x2, 5x5 kernels
+
+×
+
+5 kernel and a non-strided convolution
+
+with a 3
+
+×
+
+3 kernel size in the last two convolutional layers.
 
 
 
@@ -323,7 +333,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODUxMjY0NCwtMTI2NjczODI0NywxMT
+eyJoaXN0b3J5IjpbLTQ3ODYxNTI4NywtMTI2NjczODI0NywxMT
 YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
 MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOT
 YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
