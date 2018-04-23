@@ -91,7 +91,7 @@ First, the general data set of 16235 images was [shuffled](https://www.tandfonli
 <br/> ![alt text][image2]
 <br/> ![alt text][image3]
  
-It was noticed that most of the initial data (without preprocessing) used was linked to a predicting response to drive straighforward.
+It was noticed that most of the initial data (without preprocessing) used was linked to predicting response to drive straighforward.
 1.1 Architecture model aproach.
 
 Training and valdiation data selection.
@@ -251,11 +251,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MT
-Y1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMw
-NiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMD
-c4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMw
-MjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOT
-QyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEz
-MDQ5XX0=
+eyJoaXN0b3J5IjpbNzQxNTU2ODM3LDc5NDA0NzY4NCwtMjA3Mj
+UxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0
+LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwND
+Q4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2
+LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NT
+IyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTksMTc3MTI1MDY4
+NV19
 -->
