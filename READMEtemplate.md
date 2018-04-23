@@ -116,7 +116,7 @@ Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automoti
 Then, noticing that network performance was still bad: I mean, that the car went out of the track, I decided to look for data augmentation and I started and seccond preprocessing part for training data.
 
 ##### Data preprocessing (Part 2)
-Here custom funtions and steps applied to image before feeding the model is explained.
+Here custom funtions and steps applied to image  are explained.
 
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization
 
@@ -289,11 +289,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mzg2NDc0NSwxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbNjExODM5MDg2LDE0MzkxMjY0MDUsMTExNz
+c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
+MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
+c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
+MjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMT
+c1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYx
+XX0=
 -->
