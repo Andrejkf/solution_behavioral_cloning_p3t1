@@ -143,7 +143,7 @@ Two custom funtion to generate bath for training and validation with the aim of 
 ##### Model Architecture 
 As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the fully conected layers at the top. Also, I used "ELUs" as nonlinear layers because the given better results, on my model  calibration, than the "RELUs".
 
-The 
+
 
 
 
@@ -317,11 +317,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNjcxNDU5LC04MzU1NDAzMDMsMTQzOT
-EyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwt
-MjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOT
-I1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUs
-MTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMz
-E1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5
-NV19
+eyJoaXN0b3J5IjpbMTQ5NzIzMTI4MiwtODM1NTQwMzAzLDE0Mz
+kxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQs
+LTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MT
+kyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1
+LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMj
+MxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2
+OTVdfQ==
 -->
