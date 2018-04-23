@@ -143,7 +143,91 @@ Two custom funtion to generate bath for training and validation with the aim of 
 #### Model Architecture 
 As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the fully conected layers at the top. Also, I used "ELUs" as nonlinear layers because the given better results, on my model  calibration, than the "RELUs".
 
+_________________________________________________________________
 
+Layer (type) Output Shape Param #
+
+=================================================================
+
+lambda_5 (Lambda) (None, 64, 64, 3) 0
+
+_________________________________________________________________
+
+conv2d_21 (Conv2D) (None, 30, 30, 24) 1824
+
+_________________________________________________________________
+
+activation_21 (Activation) (None, 30, 30, 24) 0
+
+_________________________________________________________________
+
+conv2d_22 (Conv2D) (None, 13, 13, 36) 21636
+
+_________________________________________________________________
+
+activation_22 (Activation) (None, 13, 13, 36) 0
+
+_________________________________________________________________
+
+conv2d_23 (Conv2D) (None, 5, 5, 48) 43248
+
+_________________________________________________________________
+
+activation_23 (Activation) (None, 5, 5, 48) 0
+
+_________________________________________________________________
+
+conv2d_24 (Conv2D) (None, 5, 5, 64) 27712
+
+_________________________________________________________________
+
+activation_24 (Activation) (None, 5, 5, 64) 0
+
+_________________________________________________________________
+
+conv2d_25 (Conv2D) (None, 5, 5, 64) 36928
+
+_________________________________________________________________
+
+activation_25 (Activation) (None, 5, 5, 64) 0
+
+_________________________________________________________________
+
+dropout_13 (Dropout) (None, 5, 5, 64) 0
+
+_________________________________________________________________
+
+flatten_5 (Flatten) (None, 1600) 0
+
+_________________________________________________________________
+
+dense_13 (Dense) (None, 100) 160100
+
+_________________________________________________________________
+
+dropout_14 (Dropout) (None, 100) 0
+
+_________________________________________________________________
+
+dense_14 (Dense) (None, 50) 5050
+
+_________________________________________________________________
+
+dropout_15 (Dropout) (None, 50) 0
+
+_________________________________________________________________
+
+dense_15 (Dense) (None, 1) 51
+
+=================================================================
+
+Total params: 296,549
+
+Trainable params: 296,549
+
+Non-trainable params: 0
+
+_________________________________________________________________
 
 
 
@@ -319,11 +403,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc1MDAzMjgsLTgzNTU0MDMwMywxND
-M5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0
-LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OT
-E5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcw
-NSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMz
-IzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgz
-Njk1XX0=
+eyJoaXN0b3J5IjpbLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsLT
+gzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
+MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
+M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
+MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMT
+UzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5
+OTM5MF19
 -->
