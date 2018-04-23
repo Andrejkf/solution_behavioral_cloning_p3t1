@@ -122,6 +122,7 @@ Images were loaded in RGB color space (function read_image() in line 327) . To i
 
 To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
 
+As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper]( (https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf))to check performance
 
 
 
@@ -292,11 +293,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI5MDU2NzMsMTQzOTEyNjQwNSwxMT
-E3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAx
-NCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MD
-k5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2
-NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xOD
-MxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0
-NjFdfQ==
+eyJoaXN0b3J5IjpbODExOTIwNjMwLDE0MzkxMjY0MDUsMTExNz
+c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
+MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
+c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
+MjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMT
+c1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYx
+XX0=
 -->
