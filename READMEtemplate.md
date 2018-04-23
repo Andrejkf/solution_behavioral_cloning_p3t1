@@ -115,9 +115,10 @@ Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automoti
 
 Then, noticing that network performance was still bad: I mean, that the car went out of the track, I decided to look for data augmentation and I started and seccond preprocessing part for training data and a third part doing data augmentation.
 
+So, I ended up with two models, one without regularization which is the one always mentioned on this document as **version Zero** and a seccond one with 
 Finally, I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding L2 regularization technique to avoid overfitting. 
 
-I tried different models, to improve 
+
 
 The final model description and parameters tunning is drescribed later on on this document.
 
@@ -304,7 +305,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjU4MTAwOSwxNDM5MTI2NDA1LDExMT
+eyJoaXN0b3J5IjpbLTU4NzA5MDg3MywxNDM5MTI2NDA1LDExMT
 c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
 LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
 k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
