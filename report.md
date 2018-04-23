@@ -144,7 +144,7 @@ To augment the data a custom data_augmentation pipeline was define (function *pr
 * random_flip(): ( Code lines 405 - 418). Used to flip images pseudorandomly.
 * random_shadow(): (Code lines 423 - 457). Used to apply a random shadow mask on images.
 * brigth_augmentation2(): (Code lines 468 - 479) used to shift sligthly the image brigth in HSV color space using a random_uniform deviation.
-Some image samples are show to ilustrate the preprocess pipeline:
+Some image samples are shown to ilustrate the preprocess pipeline:
 
 <br/> ![alt text][image11]
 <br/> ![alt text][image12]
@@ -152,6 +152,7 @@ Some image samples are show to ilustrate the preprocess pipeline:
 
 #### Batch generators
 Two custom funtion to generate bath for training and validation with the aim of avoiding overload of RAM memory where defined. The first one called *batch_generator2()*, used for debugging purposes, and, the seccond one called **batch_generator()**, used to produce **batch training** and **batch validation** data with a chosen batch of 64 images. 
+
 
 #### Model Architecture 
 As it was previously mentioned the final model architecture chosen is based on the [nvidia end-to-end learning model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) with different number of output neurons, with addition of dropout layers all way along the network and with L2 regularization in the fully conected layers at the top. Also, I used "ELUs" as nonlinear layers because the given better results, on my model  calibration, than the "RELUs".
@@ -357,11 +358,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTg3MDA1MCwtMjA0MDc5MjE1LDc0OD
-k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
-NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC
-04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
-MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
-UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
-OTM2XX0=
+eyJoaXN0b3J5IjpbOTI2NTM1MTAyLC0yMDQwNzkyMTUsNzQ4OT
+g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
+LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsLT
+gzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
+MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
+M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
+MzZdfQ==
 -->
