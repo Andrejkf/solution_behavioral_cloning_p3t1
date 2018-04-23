@@ -126,6 +126,8 @@ As part of the experimentation process, images where converted to YUV color spac
 
 
 
+
+
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
 
 
@@ -293,7 +295,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MzQwNjcsMTQzOTEyNjQwNSwxMTE3Nz
+eyJoaXN0b3J5IjpbNDg5NzM2NzksMTQzOTEyNjQwNSwxMTE3Nz
 g5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwx
 NjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5Nz
 UzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwy
