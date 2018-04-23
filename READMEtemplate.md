@@ -150,6 +150,8 @@ Training data was normalized before feeding it into the model using a  keras.lay
 ##### Parameters Selection
 
 The final parameters set up was the following:
+* Lambda layer:
+Applied  aproximation divinding by 255 and 
 * Convolutional layers:
 As in the [nvidia model]((https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) ) I used strided convolutions in the first three convolutional layers with a 2x2, 5x5 kernels. Non strided convolutional layers with 3x3 kernels.
 * Activation layers: 'ELU'
@@ -325,11 +327,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzAyMDc3NywtMTI2NjczODI0NywxMT
-YwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1
-MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOT
-YsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1
-MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNi
-wtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4
-NTQwOTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDAzOTQ3MDEsLTEyNjY3MzgyNDcsMT
+E2MDI0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3
+NTAwMzI4LDE0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mz
+k2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2
+NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMD
+YsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3
+ODU0MDkxXX0=
 -->
