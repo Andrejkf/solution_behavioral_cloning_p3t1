@@ -124,14 +124,18 @@ In summary,  I used a very similar model to the [nvidia model](https://images.nv
 #### Data preprocessing (Part 2)
 Here custom functions and steps applied to images  are explained.
 
-Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
-<br/> ![alt text][image7]
 
-As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
+Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
 <br/> ![alt text][image8]
+
+
 
 To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
 <br/> ![alt text][image9]
+
+
+As part of the experimentation process, images where converted to YUV color space as in [Nvidia paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) to check performance.
+<br/> ![alt text][image8]
 
 ##### Data augmentation and model generalization
 To augment the data a custom data_augmentation pipeline was define (function *preprocess_train_data()*), where is applied:
@@ -350,11 +354,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA3OTIxNSw3NDg5ODc2ODYsMzgwMj
-ExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkz
-OCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOCwtODM1NTQwMzAzLD
-E0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2
-ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLT
-k5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIx
-NzA1XX0=
+eyJoaXN0b3J5IjpbMTQ0NzE2MDU1OCwtMjA0MDc5MjE1LDc0OD
+k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
+NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC
+04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
+MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
+UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
+OTM2XX0=
 -->
