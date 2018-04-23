@@ -193,7 +193,7 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 
 ## Results and discussion
 
-With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
+With these starategies the model performed well (safety for pasengers) on track1 (test 1) but partially on track2 (challenge) track. 
 
 Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
 
@@ -275,11 +275,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE5MTU1MTksOTI2NTM1MTAyLC0yMD
-QwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0
-NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLT
-EzMTc1MDAzMjgsLTgzNTU0MDMwMywxNDM5MTI2NDA1LDExMTc3
-ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LD
-E2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3
-NTMwNl19
+eyJoaXN0b3J5IjpbMTE0MjAzNTYyNyw5MjY1MzUxMDIsLTIwND
+A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
+LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
+MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
+OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMT
+YxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1
+MzA2XX0=
 -->
