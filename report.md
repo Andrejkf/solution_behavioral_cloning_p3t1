@@ -1,6 +1,6 @@
 # Behavioral Cloning Project
 hello
-## ## Writeup report for project 3, term 1.
+## Writeup report for project 3, term 1.
 
 This is the report for project 2, term 1.
 
@@ -201,8 +201,8 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNz
-AyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODEx
-OSwxNzcxMjUwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLD
-EwMTU4Mjg4NDNdfQ==
+eyJoaXN0b3J5IjpbMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5ND
+M4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4
+MywtNzMwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMT
+IxNzcyMjAxMiwxMDE1ODI4ODQzXX0=
 -->
