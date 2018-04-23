@@ -195,7 +195,8 @@ The last run accuraccy report can be view on file [p3t1accuracy_report.txt](http
 With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
 
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
-More accurated data collection. To be honest, in most of mycollected data steering angle valeus were in most cases close to zero.
+More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
+to perfo
 
 
 This could be highly improved with further data preprocessing
@@ -262,7 +263,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzk0Njg2MSw5MjY1MzUxMDIsLTIwND
+eyJoaXN0b3J5IjpbMjAwMzA4NDExMSw5MjY1MzUxMDIsLTIwND
 A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
 LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
 MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
