@@ -155,7 +155,9 @@ Applied  aproximation divinding by 255 and substractiong -0.5 to get pixel data 
 * Convolutional layers:
 As in the [nvidia model]((https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) ) I used strided convolutions in the first three convolutional layers with a 2x2, 5x5 kernels. Non strided convolutional layers with 3x3 kernels.
 * Activation layers: 'ELU'
-* Flatten layers
+* Flatten layer:
+Used to ensemble convolutional layers with fully connected layers.
+* 
 
 
 
@@ -327,7 +329,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MTk1NzAyLC0xMjY2NzM4MjQ3LDExNj
+eyJoaXN0b3J5IjpbMjQzMDg4MTMyLC0xMjY2NzM4MjQ3LDExNj
 AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
 MDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
 w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
