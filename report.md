@@ -160,7 +160,8 @@ Used to ensemble convolutional layers with fully connected layers.
 * Dense layers:
 Used as top abstraction layers with the last one with a single neuron in the output for steering prediction (regression).
 
-
+Loss Funtion:
+Mean squarred error
 
 
 
@@ -332,11 +333,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNjU0NTQsLTEyNjY3MzgyNDcsMTE2MD
-I0MzExNiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAw
-MzI4LC04MzU1NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LD
-Y5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAy
-OTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLT
-Y4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0
-MDkxXX0=
+eyJoaXN0b3J5IjpbNTY0Nzg0NjMyLC0xMjY2NzM4MjQ3LDExNj
+AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
+MDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
+w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
+Mjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC
+02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1
+NDA5MV19
 -->
