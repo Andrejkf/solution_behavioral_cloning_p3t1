@@ -231,9 +231,9 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image13]:  ./report_images/preprocess5_img2.png" random shadow sample 2"
 
-[image14]:  ./report_images/preprocess5_img3.png" random shadow sample 1"
+[image14]:  ./report_images/preprocess5_img3.png" random shadow sample 3"
 
-[image15]:  ./report_images/preprocess5_img4.png""
+[image15]:  ./report_images/preprocess5_img4.png" random shadow sample 4"
 
 [image16]:  ./report_images/preprocess6_img1.png""
 
@@ -248,11 +248,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTQ3OTY2LDE2MTY1MDI5NzgsNTM0Nz
-EyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYs
-MTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzND
-UwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5
-MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03Mz
-A5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIy
-MDEyXX0=
+eyJoaXN0b3J5IjpbLTEyMjQwMzI1NTUsMTYxNjUwMjk3OCw1Mz
+Q3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkz
+NiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNT
+M0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5
+MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLT
+czMDk4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3
+MjIwMTJdfQ==
 -->
