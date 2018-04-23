@@ -257,26 +257,26 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image14]:  ./report_images/preprocess5_img3.png "random shadow sample 3"
 
-[image15]:  ./report_images/preprocess5_img4.png" random shadow sample 4"
+[image15]:  ./report_images/preprocess5_img4.png "random shadow sample 4"
 
-[image16]:  ./report_images/preprocess6_img1.png"brightness augmentation sample 1"
+[image16]:  ./report_images/preprocess6_img1.png "brightness augmentation sample 1"
 
-[image17]:  ./report_images/preprocess6_img2.png"brightness augmentation sample 2"
+[image17]:  ./report_images/preprocess6_img2.png "brightness augmentation sample 2"
 
-[image18]:  ./report_images/preprocess7_img1.png" full preproced image sample 1"
+[image18]:  ./report_images/preprocess7_img1.png "full preproced image sample 1"
 
-[image19]:  ./report_images/preprocess7_img2.png" full preproced image sample 1"
+[image19]:  ./report_images/preprocess7_img2.png "full preproced image sample 1"
 
 [image20]:  ""
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzA1ODkwNyw2OTY1MDAwNCw3OTQwND
-c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
-LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
-IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
-LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
-IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
-XX0=
+eyJoaXN0b3J5IjpbOTgxNjI4MzgzLDY5NjUwMDA0LDc5NDA0Nz
+Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
+OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
+E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
+MjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMj
+M4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTld
+fQ==
 -->
