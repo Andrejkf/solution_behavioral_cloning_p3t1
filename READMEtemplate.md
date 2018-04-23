@@ -191,16 +191,16 @@ Non-trainable params: 0
 The last run accuraccy report can be view on file [p3t1accuracy_report.txt](https://github.com/Andrejkf/solution_behavioral_cloning_p3t1/blob/master/other_files/p3t1accuracy_report.txt "p3t1accuracy_report.txt").
 
 
-## Results 
+## Results and discussion
 With these starategies the model performed well on track1 (test 1) but partially on track2 (challenge) track. 
 
 Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
 
-## Conclusions and discussions
+
 
 Something noticeable is that introduction of L2 regularization in 
 
-# 
+## To improve
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
 To perform better on track 2 (challenge track),
@@ -274,11 +274,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NDE4OTkwLC0yMDQwNzkyMTUsNzQ4OT
-g3Njg2LDM4MDIxMTkzMiwtMTI2NjczODI0NywxMTYwMjQzMTE2
-LC05NTgwMzk5MzgsLTE2NTk2ODY5NjksLTEzMTc1MDAzMjgsMT
-Q5NzIzMTI4MiwxNDM5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAw
-MDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNT
-M0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzA0NjQ3ODUsLTIwNDA3OTIxNSw3ND
+g5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMx
+MTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOC
+wxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1
+MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OC
+w1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4
+NTkzNl19
 -->
