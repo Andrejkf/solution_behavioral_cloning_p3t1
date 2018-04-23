@@ -76,7 +76,6 @@ Then further data was collected and unified to train and test the network perfor
 #### Data collection.
 The set of images used on this project was progresively constructed during the whole design aproach process. The paths for all images where gathered in a single csv file (*merged4_modified.csv*) with paths updated to run on a single linux server using python [pandas](https://pandas.pydata.org/) library and custom defined funtions 
 
-
 The final data set used to train and validate network performance contains as subset:
 * Images provided by udacity team on the project.
 * Images from one lap clock wise and one counterclockwise from track 1.
@@ -201,9 +200,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTU3Nzg3LDIwMDc4NTQwOTEsMTUzND
-UwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5
-MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOTQyNTE5NjgzLC03Mz
-A5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIy
-MDEyLDEwMTU4Mjg4NDNdfQ==
+eyJoaXN0b3J5IjpbMTYyNTk2OTk2NSwyMDA3ODU0MDkxLDE1Mz
+Q1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkz
+OTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNz
+MwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcy
+MjAxMiwxMDE1ODI4ODQzXX0=
 -->
