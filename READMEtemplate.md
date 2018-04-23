@@ -64,7 +64,7 @@ To make it easier to follow up this reading the most relevant information is wri
 ## Approach
 For this project, steps provided were followed as advised in the [rubric](https://review.udacity.com/#!/rubrics/432/view) .
 
-Disclaimer!: To solve this problem I was inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf), 
+Disclaimer!: To solve this problem I was inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) for model design and data collection, [this post](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9) for data preprocessing and [this 
 
 ### Solution design process.
 
@@ -201,7 +201,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMD
-k4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3MjIw
-MTIsMTAxNTgyODg0M119
+eyJoaXN0b3J5IjpbMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0Mj
+UxOTY4MywtNzMwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0
+OSwtMTIxNzcyMjAxMiwxMDE1ODI4ODQzXX0=
 -->
