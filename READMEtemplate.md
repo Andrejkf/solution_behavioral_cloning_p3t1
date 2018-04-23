@@ -197,7 +197,7 @@ With these starategies the model performed well (safety for pasengers) on track1
 
 Speed of the model was up to 15 despacement/time units  and honestly I would like to have it working at maximum speed.
 
-It was really hard to tune parameters for this model. Specifically because as the number of free parameters of the model increased the optimi
+It was really hard to tune parameters for this model. Specifically because as the number of free parameters of the model increased the optimization complexity of the problem increased. (that means , I needed to start parameters tunning again.
 
 Something noticeable is that introduction of L2 regularization in 
 
@@ -275,11 +275,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDExNjQ1MywtMjA0MDc5MjE1LDc0OD
-k4NzY4NiwzODAyMTE5MzIsLTEyNjY3MzgyNDcsMTE2MDI0MzEx
-NiwtOTU4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LD
-E0OTcyMzEyODIsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUw
-MDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LD
-UzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1
-OTM2XX0=
+eyJoaXN0b3J5IjpbLTE5NDk5OTc0MTQsLTIwNDA3OTIxNSw3ND
+g5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNjAyNDMx
+MTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUwMDMyOC
+wxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Niw2OTY1
+MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OC
+w1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4
+NTkzNl19
 -->
