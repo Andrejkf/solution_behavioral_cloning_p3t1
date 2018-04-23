@@ -196,7 +196,8 @@ With these starategies the model performed well on track1 (test 1) but partially
 
 Further data preprocessing. For example, by randomly shifting vertically and horizontally the training image data.
 More accurated data collection. To be honest, in most of mycollected data steering angle values were in most cases close to zero, so better data collection and non relevant data filtering should be added.
-to perfo
+to perform better on track 2 (challenge track),
+data images from seccond track  both previous steps could be applied 
 
 
 This could be highly improved with further data preprocessing
@@ -263,7 +264,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzA4NDExMSw5MjY1MzUxMDIsLTIwND
+eyJoaXN0b3J5IjpbMTU2NzgxODUyNyw5MjY1MzUxMDIsLTIwND
 A3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0xMjY2NzM4MjQ3
 LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMT
 MxNzUwMDMyOCwtODM1NTQwMzAzLDE0MzkxMjY0MDUsMTExNzc4
