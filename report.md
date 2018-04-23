@@ -315,16 +315,17 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image19]:  ./report_images/preprocess7_img2.png "full preproced image sample 1"
 
-[image20]:  ""
+
+[image20]: ./report_images/model_architecture.jpg "model architecture"
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDI0MzExNiwtOTU4MDM5OTM4LC0xNj
-U5Njg2OTY5LC0xMzE3NTAwMzI4LC04MzU1NDAzMDMsMTQzOTEy
-NjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMj
-A3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1
-NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMT
-YwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1
-MDQ2XX0=
+eyJoaXN0b3J5IjpbLTEyNjY3MzgyNDcsMTE2MDI0MzExNiwtOT
+U4MDM5OTM4LC0xNjU5Njg2OTY5LC0xMzE3NTAwMzI4LC04MzU1
+NDAzMDMsMTQzOTEyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LD
+c5NDA0NzY4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcx
+MjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LD
+E0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1
+MDI0NDhdfQ==
 -->
