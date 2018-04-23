@@ -90,8 +90,6 @@ The initial data set was shuffled and then splited into training (80%) and valid
 
 For training  set, during batch training, data was shuffle each time an image was feed into the model.
 
-For validation set
-
 <br/> ![alt text][image1]
  
 #### Data preprocessing (Part 1)
@@ -273,11 +271,11 @@ collection of data images from seccond track in addition to the two previously m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ4Nzk0LDEzNzc4Mzg3NDEsNzUyND
-Q4MDUsLTIwNDA3OTIxNSw3NDg5ODc2ODYsMzgwMjExOTMyLC0x
-MjY2NzM4MjQ3LDExNjAyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OT
-Y4Njk2OSwtMTMxNzUwMDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0
-MDUsMTExNzc4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNz
-I1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUz
-NF19
+eyJoaXN0b3J5IjpbLTUwNzEwNzk1MiwxMzc3ODM4NzQxLDc1Mj
+Q0ODA1LC0yMDQwNzkyMTUsNzQ4OTg3Njg2LDM4MDIxMTkzMiwt
+MTI2NjczODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NT
+k2ODY5NjksLTEzMTc1MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2
+NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMD
+cyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1
+MzRdfQ==
 -->
