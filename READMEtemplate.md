@@ -206,10 +206,10 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [//]: # (Image References)
 
 ./report_images/hist1.png
-./report_images/hist1.png
-./report_images/hist1.png
-./report_images/hist1.png
-./report_images/hist1.png
+./report_images/hist2.png
+./report_images/hist3.png
+./report_images/hist4.png
+./report_images/hist5.png
 ./report_images/hist1.png
 ./report_images/
 ./report_images/
@@ -274,9 +274,10 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 [image33]: ./other_images/report_41.png "stimuli1"
 [image34]: ./other_images/report_42.png "Filters conv 2"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMD
-c4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMw
-MjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOT
-QyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEz
-MDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNzcyMzEwNjEsMTQ1NjUyMTcwNSwxNj
+A0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUw
+NDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LD
+U1MjI5NDQ2MSwtOTQyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUw
+Njg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIyMDEyLDEwMTU4Mjg4ND
+NdfQ==
 -->
