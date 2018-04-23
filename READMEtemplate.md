@@ -105,7 +105,10 @@ On the first one, one threshold value of *1.5 times the average of the data* to 
 On the seccond stage to get a better distribuion, closer to a guassian one, the same threshold value was defined (again,  threshold = 1.5*average).  For bins from the histogram with a sample number above the new threshold a probability to keep values was empirically defined as  **keepProb= (samples_at_current_bin/threshold)*0.5 ** (code lines 277 to 290), and keeping a close gaussian probability near the mean, redundanta data was removed. Resulting with a training set distribution as shown below.
 <br/> ![alt text][image5]
 
-So, before starting processing data a process of data cleaning was done, and initial data distribution(in blue) was filtered to get a better distributed data (image
+So, before starting processing data a process of data cleaning was done, and initial data distribution(in blue) was filtered to get a better distributed training data (in orange) as shoen below.
+<br/> ![alt text][image6]
+
+
 
 
 
@@ -272,7 +275,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MjI3Mjc3LDY5NjUwMDA0LDc5NDA0Nz
+eyJoaXN0b3J5IjpbMzgwMDQ3MDkxLDY5NjUwMDA0LDc5NDA0Nz
 Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
 OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
 E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
