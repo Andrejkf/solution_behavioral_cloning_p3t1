@@ -120,7 +120,8 @@ Here custom funtions and steps applied to image  are explained.
 
 Images were loaded in RGB color space (function read_image() in line 327) . To improve generalization pf the model images where cropped (60 pixels) on top and (20 pixels ) at the bottom of each image (code line 342).
 
-To reduce the number of trainable parameters 
+To reduce the number of trainable parameters images where resized to 64x64 pixels for each channel with function *resize_img()* (code lines 356 to 365).
+
 
 
 
@@ -291,11 +292,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODAyMDU1MiwxNDM5MTI2NDA1LDExMT
-c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
-LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
-k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
-LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4Mz
-E3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2
-MV19
+eyJoaXN0b3J5IjpbLTExOTI5MDU2NzMsMTQzOTEyNjQwNSwxMT
+E3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwtMjA3MjUxMjAx
+NCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MD
+k5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2
+NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xOD
+MxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0
+NjFdfQ==
 -->
