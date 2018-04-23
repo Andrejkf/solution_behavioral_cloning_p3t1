@@ -68,9 +68,9 @@ Then further data was collected and unified to train and test the network perfor
 
 #### Data collection.
 The final data set used to train and validate network performance contains as subset:
-* Images provided on the project. 
+* Images provided by udacity team on the project.
 * Images from one lap clock wise and one counterclockwise from track 1.
-* Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns were added.
+* Also, during debugging process, a biased behavior to drive straigforward for the model was detected. So inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) more images from left and rigth turns from track1 were extracted.
 * Finally. some Images from track2. To help the model generalize.
 * 
 
@@ -188,9 +188,9 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ5OTUxNjYsLTE0NTA5MjgzNjcsLT
-E1NzI1ODY0NjcsLTE2Mjg2NDY2MDMsMTYxMDU5ODg2OSwzMzM3
-NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5OTczLC0xOTA2Mjc1Nj
-k1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMwMDMxMTkxMCwt
-MTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOTkyOF19
+eyJoaXN0b3J5IjpbLTgzOTM5MTA2NywtMTQ1MDkyODM2NywtMT
+U3MjU4NjQ2NywtMTYyODY0NjYwMywxNjEwNTk4ODY5LDMzMzc3
+MjkzNywxNDE4NTIzNTg4LDE1NzQ4Mzk5NzMsLTE5MDYyNzU2OT
+UsLTEwNDQxOTgzNTIsLTU5MTI2NDcwMiwtMzAwMzExOTEwLC0x
+MjI2NjkzNjg3LDE5MTI5NjIzODIsNDY3NzE5OTI4XX0=
 -->
