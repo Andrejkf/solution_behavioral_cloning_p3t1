@@ -64,7 +64,7 @@ To make it easier to follow up this reading the most relevant information is wri
 ## Approach
 For this project, steps provided were followed as advised in the [rubric](https://review.udacity.com/#!/rubrics/432/view) .
 
-Disclaimer!: To solve this problem I was inspired on this paper
+Disclaimer!: To solve this problem I was inspired on [this paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf), 
 
 ### Solution design process.
 
@@ -201,7 +201,7 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDc3NDY3MSwtOTQyNTE5NjgzLC03Mz
-A5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEzMDQ5LC0xMjE3NzIy
-MDEyLDEwMTU4Mjg4NDNdfQ==
+eyJoaXN0b3J5IjpbNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMD
+k4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3MjIw
+MTIsMTAxNTgyODg0M119
 -->
