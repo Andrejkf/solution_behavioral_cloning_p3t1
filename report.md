@@ -110,7 +110,7 @@ So, before starting processing data a process of data cleaning was done, and ini
 
 #### Data preprocessing (Part 2)
 
-To generate a more robust model 
+During the desing process, it was noted that the server machine took a long time for training data. initially in terms 
 
 
 
@@ -277,7 +277,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNzcxMzk0LDExMTc3ODkzOTYsNjk2NT
+eyJoaXN0b3J5IjpbMzE1ODM0NTEyLDExMTc3ODkzOTYsNjk2NT
 AwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MTY1MDI5Nzgs
 NTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMwNiwtNjg3OD
 U5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEs
