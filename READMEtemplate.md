@@ -236,9 +236,9 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image4]: ./report_images/hist4.png "training set redundant data removed"
 
-[image5]:  ./report_images/hist5.png" training set filtered data"
+[image5]:  ./report_images/hist5.png "training set filtered data"
 
-[image6]:  ./report_images/hist6.png "training set comparison"
+[image6]:  ./report_images/hist6.png  "training set comparison"
 
 
 [image7]:  ./report_images/preprocess1.png "sample image in rgb"
@@ -247,15 +247,15 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image9]:  ./report_images/preprocess2.png "cropped image"
 
-[image10]:  ./report_images/preprocess3.png" resized 64x64 image"
+[image10]:  ./report_images/preprocess3.png "resized 64x64 image"
 
 [image11]:  ./report_images/preprocess4.png "flipped image"
 
-[image12]:  ./report_images/preprocess5_img1.png" random shadow sample 1"
+[image12]:  ./report_images/preprocess5_img1.png "random shadow sample 1"
 
-[image13]:  ./report_images/preprocess5_img2.png" random shadow sample 2"
+[image13]:  ./report_images/preprocess5_img2.png "random shadow sample 2"
 
-[image14]:  ./report_images/preprocess5_img3.png" random shadow sample 3"
+[image14]:  ./report_images/preprocess5_img3.png "random shadow sample 3"
 
 [image15]:  ./report_images/preprocess5_img4.png" random shadow sample 4"
 
@@ -272,11 +272,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTMyOTAxLDY5NjUwMDA0LDc5NDA0Nz
-Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
-OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
-E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
-MjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMj
-M4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTld
-fQ==
+eyJoaXN0b3J5IjpbLTkyMzA1ODkwNyw2OTY1MDAwNCw3OTQwND
+c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
+LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
+IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
+LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
+IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
+XX0=
 -->
