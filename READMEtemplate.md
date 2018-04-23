@@ -119,7 +119,7 @@ I tested out different models and parameters values but I just got two *fully wo
 
 So, I ended up with two models, one without regularization which is the one always mentioned on this document as **version Zero** and a seccond one with drop out and regularization, referred on this document as **version one**.
 
-  I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding L2 regularization technique to avoid overfitting. 
+In summary,  I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding L2 regularization technique to avoid overfitting. 
 
 
 
@@ -308,7 +308,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyOTQ4MzM1LDE0MzkxMjY0MDUsMTExNz
+eyJoaXN0b3J5IjpbNDQ5MTA1MzM0LDE0MzkxMjY0MDUsMTExNz
 c4OTM5Niw2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQs
 MTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OT
 c1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUs
