@@ -115,6 +115,8 @@ Then inspired by [nvidia model](https://images.nvidia.com/content/tegra/automoti
 
 Then, noticing that network performance was still bad: I mean, that the car went out of the track, I decided to look for data augmentation and I started and seccond preprocessing part for training data and a third part doing data augmentation.
 
+Finally, I used a very similar model to the [nvidia model](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)  including dropout layers and also adding 
+
 ##### Data preprocessing (Part 2)
 Here custom funtions and steps applied to image  are explained.
 
@@ -298,7 +300,7 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjk2ODM5MiwxNDM5MTI2NDA1LDExMT
+eyJoaXN0b3J5IjpbMTc3Nzc0NzkyNSwxNDM5MTI2NDA1LDExMT
 c3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEyMDE0
 LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOT
 k3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1
