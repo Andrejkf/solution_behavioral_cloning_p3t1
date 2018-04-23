@@ -87,7 +87,7 @@ The final data set used to train and validate network performance contains as su
 So basically, during the whole desing process more and more images where added to build up the training and validation data set. Ending with a total of 16235 images. 80 % of them used as initial training data set and the remaining 20% for validation. It is important to note that most of the images have had steering angles with values near 0(zero) as shown in mage below.
 <br/> ![alt text][image1]
  
-#### Data preprocessing.
+#### Data preprocessing (Part 1)
 First, the general data set of 16235 images was [shuffled](https://www.tandfonline.com/doi/abs/10.1080/15536548.2012.10845652) (code line 90) and then splited in training(80%) and validation(20%) sets. Data distributions are shown below.
 <br/> ![alt text][image2]
 <br/> ![alt text][image3]
@@ -108,7 +108,7 @@ On the seccond stage to get a better distribuion, closer to a guassian one, the 
 So, before starting processing data a process of data cleaning was done, and initial data distribution(in blue) was filtered to get a better distributed training data (in orange) as shoen below.
 <br/> ![alt text][image6]
 
-
+#### Data preprocessing (Part 2)
 
 
 
@@ -275,11 +275,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMDQ3MDkxLDY5NjUwMDA0LDc5NDA0Nz
-Y4NCwtMjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwt
-OTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1Mj
-E3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgs
-MjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMj
-M4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNzMwOTgxMTld
-fQ==
+eyJoaXN0b3J5IjpbMTk3NTc4OTIyMiw2OTY1MDAwNCw3OTQwND
+c2ODQsLTIwNzI1MTIwMTQsMTYxNjUwMjk3OCw1MzQ3MTI1OTgs
+LTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NT
+IxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4
+LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MD
+IzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLTczMDk4MTE5
+XX0=
 -->
