@@ -88,7 +88,8 @@ So basically, during the whole desing process more and more images where added t
  
 #### Data preprocessing.
 First, the general data set of 16235 images was [shuffled](https://www.tandfonline.com/doi/abs/10.1080/15536548.2012.10845652) and then splited in training(80%) and validation(20%) sets. Data distributions are shown below.
-
+<br/> ![alt text][image2]
+<br/> ![alt text][image3]
  
 It was noticed that most of the initial data (without preprocessing) used was linked to a predicting response to drive straighforward.
 1.1 Architecture model aproach.
@@ -250,11 +251,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTcwNDkxMywtMjA3MjUxMjAxNCwxNj
-E2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUz
-MDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMD
-A3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUz
-MDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLT
-k0MjUxOTY4MywtNzMwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYx
-MzA0OV19
+eyJoaXN0b3J5IjpbNzk0MDQ3Njg0LC0yMDcyNTEyMDE0LDE2MT
+Y1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLTkwOTk3NTMw
+NiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0ODY1LDIwMD
+c4NTQwOTEsMTUzNDUwMjQ0OCwyMzIzMTUwNDYsLTE4MzE3NTMw
+MjQsMTk0Mzg5OTM5MCwxNzAyMzgzNjk1LDU1MjI5NDQ2MSwtOT
+QyNTE5NjgzLC03MzA5ODExOSwxNzcxMjUwNjg1LC0xNzIwNjEz
+MDQ5XX0=
 -->
