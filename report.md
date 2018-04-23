@@ -212,14 +212,14 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 [image4]: ./report_images/hist4.png "training set redundant data removed"
 
-[image5]:  ./report_images/hist5.png" training set "
+[image5]:  ./report_images/hist5.png" training set filtered data"
 
-[image6]:  ./report_images/hist6.png ""
+[image6]:  ./report_images/hist6.png "training set comparison"
 
 
-[image7]:  ./report_images/preprocess1.png ""
+[image7]:  ./report_images/preprocess1.png "sample image in rgb"
 
-[image8]:  ./report_images/preprocess1_in_yuv.png ""
+[image8]:  ./report_images/preprocess1_in_yuv.png "sample image i"
 
 [image9]:  ./report_images/preprocess2.png ""
 
@@ -248,11 +248,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY5NDI1OCwxNjE2NTAyOTc4LDUzND
-cxMjU5OCwtOTkxOTI1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2
-LDE0NTY1MjE3MDUsMTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1Mz
-Q1MDI0NDgsMjMyMzE1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkz
-OTAsMTcwMjM4MzY5NSw1NTIyOTQ0NjEsLTk0MjUxOTY4MywtNz
-MwOTgxMTksMTc3MTI1MDY4NSwtMTcyMDYxMzA0OSwtMTIxNzcy
-MjAxMl19
+eyJoaXN0b3J5IjpbLTE4Mzk0OTc1ODEsMTYxNjUwMjk3OCw1Mz
+Q3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkz
+NiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNT
+M0NTAyNDQ4LDIzMjMxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5
+MzkwLDE3MDIzODM2OTUsNTUyMjk0NDYxLC05NDI1MTk2ODMsLT
+czMDk4MTE5LDE3NzEyNTA2ODUsLTE3MjA2MTMwNDksLTEyMTc3
+MjIwMTJdfQ==
 -->
