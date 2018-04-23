@@ -163,7 +163,7 @@ Used as top abstraction layers with the last one with a single neuron in the out
 * Loss Funtion:
 Mean squared error. Used for prediction/regression of steering angles.
 * Learning rate: given the fact I used Adam optimizer starting with fixed learning rate it was adjusted by *keras.optimizers.Adam*.
-* Optimiztion algortihm: 
+* Optimization algortihm: 
 Adam. Used because it adjustes the learning rate dirung the training process using stochastic gradient based optimization.
 * batch size: 64. Use to work very fast on Nvidia GPU quadro P1000.
 
@@ -337,11 +337,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjExOTMyLC0xMjY2NzM4MjQ3LDExNj
-AyNDMxMTYsLTk1ODAzOTkzOCwtMTY1OTY4Njk2OSwtMTMxNzUw
-MDMyOCwxNDk3MjMxMjgyLDE0MzkxMjY0MDUsMTExNzc4OTM5Ni
-w2OTY1MDAwNCw3OTQwNDc2ODQsLTIwNzI1MTIwMTQsMTYxNjUw
-Mjk3OCw1MzQ3MTI1OTgsLTk5MTkyNTUzNCwtOTA5OTc1MzA2LC
-02ODc4NTkzNiwxNDU2NTIxNzA1LDE2MDQ0ODQ4NjUsMjAwNzg1
-NDA5MV19
+eyJoaXN0b3J5IjpbNzUxODcwMDQ1LDM4MDIxMTkzMiwtMTI2Nj
+czODI0NywxMTYwMjQzMTE2LC05NTgwMzk5MzgsLTE2NTk2ODY5
+NjksLTEzMTc1MDAzMjgsMTQ5NzIzMTI4MiwxNDM5MTI2NDA1LD
+ExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0LC0yMDcyNTEy
+MDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OTE5MjU1MzQsLT
+kwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcwNSwxNjA0NDg0
+ODY1XX0=
 -->
