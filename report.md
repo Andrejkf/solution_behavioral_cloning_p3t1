@@ -247,76 +247,8 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[image1]: ./other_images/report_1.png "Sample images from training dataset"
-[image2]: ./other_images/report_2.png "training and validation datasets histograms"
-[image3]: ./other_images/report_3.png "test set histogram"
-[image4]: ./other_images/report_4.png "contrast enhacement"
-[image5]: ./other_images/report_5.png "zero-mean unit-variance"
-[image6]: ./other_images/2.png "model 2"
-
-[image7]: ./other_images/3.png "model 3"
-
-[image8]: ./other_images/4.png "model 4"
-[image9]: ./other_images/5.png "model 5"
-[image10]: ./other_images/6.png "model 6"
-[image11]: ./other_images/7.png "model 7"
-
-[image12]: ./other_images/report_6.png "Final model trained"
-
-[image13]: ./other_images/report_original_9_1.png  "Label: 9,No passing"
-[image14]: ./other_images/report_original_14_1.png "Label: 14,Stop"
-[image15]: ./other_images/report_original_20_1.png "Label: 20,Dangerous curve to the right."
-[image16]: ./other_images/report_original_20_1_flipped.png "Flipped version of previous image"
-[image17]: ./other_images/report_original_27_1.png "Label: 27,Pedestrians"
-
-
-[image18]: ./other_images/report_original_2_1.png  "Label: 2,Speed limit (50km/h)"
-[image19]: ./other_images/report_original_14_2.png "Label: 14,Stop"
-[image20]: ./other_images/report_original_25_1.png "Label: 25,Road work"
-[image21]: ./other_images/report_original_29_1.png "Label: 29,Bicycles crossing"
-[image22]: ./other_images/report_original_35_1.png "Label: 35,Ahead only"
-
-
-[image23]: ./other_images/report_11.png "sofmax img1"
-[image24]: ./other_images/report_12.png "sofmax img2"
-[image25]: ./other_images/report_13.png "sofmax img3"
-[image26]: ./other_images/report_14.png "sofmax img4"
-[image27]: ./other_images/report_15.png "sofmax img5"
-[image28]: ./other_images/report_16.png "sofmax img6"
-[image29]: ./other_images/report_17.png "sofmax img7"
-[image30]: ./other_images/report_18.png "sofmax img8"
-[image31]: ./other_images/report_19.png "sofmax img9"
-[image32]: ./other_images/report_20.png "sofmax img10"
-
-
-
-[image33]: ./other_images/report_41.png "stimuli1"
-[image34]: ./other_images/report_42.png "Filters conv 2"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODE0OTI2OCw1MzQ3MTI1OTgsLTk5MT
+eyJoaXN0b3J5IjpbMTYxNjUwMjk3OCw1MzQ3MTI1OTgsLTk5MT
 kyNTUzNCwtOTA5OTc1MzA2LC02ODc4NTkzNiwxNDU2NTIxNzA1
 LDE2MDQ0ODQ4NjUsMjAwNzg1NDA5MSwxNTM0NTAyNDQ4LDIzMj
 MxNTA0NiwtMTgzMTc1MzAyNCwxOTQzODk5MzkwLDE3MDIzODM2
