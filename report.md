@@ -151,6 +151,7 @@ As it was previously mentioned the final model architecture chosen is based on t
 
 
 
+
 During the desing process, it was noted that the server machine took a long time for training data. initially in terms of days but with code improvements reduced to hours. The most advantaged part was to feed in t
 
 
@@ -318,11 +319,11 @@ I enjoyed this project thoroughly and I'm very pleased with the results. Trainin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NTc1MTQ2LC04MzU1NDAzMDMsMTQzOT
-EyNjQwNSwxMTE3Nzg5Mzk2LDY5NjUwMDA0LDc5NDA0NzY4NCwt
-MjA3MjUxMjAxNCwxNjE2NTAyOTc4LDUzNDcxMjU5OCwtOTkxOT
-I1NTM0LC05MDk5NzUzMDYsLTY4Nzg1OTM2LDE0NTY1MjE3MDUs
-MTYwNDQ4NDg2NSwyMDA3ODU0MDkxLDE1MzQ1MDI0NDgsMjMyMz
-E1MDQ2LC0xODMxNzUzMDI0LDE5NDM4OTkzOTAsMTcwMjM4MzY5
-NV19
+eyJoaXN0b3J5IjpbLTEzMTc1MDAzMjgsLTgzNTU0MDMwMywxND
+M5MTI2NDA1LDExMTc3ODkzOTYsNjk2NTAwMDQsNzk0MDQ3Njg0
+LC0yMDcyNTEyMDE0LDE2MTY1MDI5NzgsNTM0NzEyNTk4LC05OT
+E5MjU1MzQsLTkwOTk3NTMwNiwtNjg3ODU5MzYsMTQ1NjUyMTcw
+NSwxNjA0NDg0ODY1LDIwMDc4NTQwOTEsMTUzNDUwMjQ0OCwyMz
+IzMTUwNDYsLTE4MzE3NTMwMjQsMTk0Mzg5OTM5MCwxNzAyMzgz
+Njk1XX0=
 -->
