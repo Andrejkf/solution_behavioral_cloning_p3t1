@@ -67,6 +67,8 @@ Initially an image data set was collected usign the [simulator](https://github.c
 Then further data was collected and unified to train and test the network performace. The data set was preprocessed. Model architecture was selected and parameters tunning process was done as well by trial and error, testing the model performance on the [simulator](https://github.com/udacity/self-driving-car-sim).
 
 #### Data collection.
+T
+
 The final data set used to train and validate network performance contains as subset:
 * Images provided by udacity team on the project.
 * Images from one lap clock wise and one counterclockwise from track 1.
@@ -191,9 +193,10 @@ I would also like to revisit implementing a more agressive crop to the images be
 
 I enjoyed this project thoroughly and I'm very pleased with the results. Training the car to drive itself, with relatively little effort and virtually no explicit instruction, was extremely rewarding.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNDYyNzMyLC0xNDUwOTI4MzY3LC0xNT
-cyNTg2NDY3LC0xNjI4NjQ2NjAzLDE2MTA1OTg4NjksMzMzNzcy
-OTM3LDE0MTg1MjM1ODgsMTU3NDgzOTk3MywtMTkwNjI3NTY5NS
-wtMTA0NDE5ODM1MiwtNTkxMjY0NzAyLC0zMDAzMTE5MTAsLTEy
-MjY2OTM2ODcsMTkxMjk2MjM4Miw0Njc3MTk5MjhdfQ==
+eyJoaXN0b3J5IjpbMTExNjM3NzA0Niw4OTE0NjI3MzIsLTE0NT
+A5MjgzNjcsLTE1NzI1ODY0NjcsLTE2Mjg2NDY2MDMsMTYxMDU5
+ODg2OSwzMzM3NzI5MzcsMTQxODUyMzU4OCwxNTc0ODM5OTczLC
+0xOTA2Mjc1Njk1LC0xMDQ0MTk4MzUyLC01OTEyNjQ3MDIsLTMw
+MDMxMTkxMCwtMTIyNjY5MzY4NywxOTEyOTYyMzgyLDQ2NzcxOT
+kyOF19
 -->
